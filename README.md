@@ -71,7 +71,7 @@ print(df.head())
 | online.rocks             | resell    | —         | —             | 70             | 62     | 7      | Edomains LLC     |
 | pls.rocks                | premium   | $123.75   | —             | 60             | 23     | 3      | name.com         |
 | inspiration.rocks        | available | $12.99    | —             | 88             | 30     | 11     | name.com         |
-| the.rocks                | resell    | —         | —             | 88             | 56     | 3      | GoDaddy.com, LLC |
+| the.rocks                | resell    | —         | —             | 88             | 57     | 3      | GoDaddy.com, LLC |
 | CapeCod.rocks            | premium   | $92.40    | $92.40        | 78             | 22     | 8      | namecheap        |
 | videos.rocks             | available | $12.99    | —             | 52             | 30     | 6      | name.com         |
 | street.rocks             | resell    | —         | —             | 70             | 33     | 6      | Spaceship, Inc.  |
