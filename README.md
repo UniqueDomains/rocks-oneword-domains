@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .rocks one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,488 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,488 domains · **Median ask:** $16.90 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,488 domains · **Median ask:** $19.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/rocks`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| construction.rocks       | available | $12.99    | —             | 70             | 31     | 12     | name.com         |
-| domain.rocks             | resell    | —         | —             | 80             | 66     | 6      | GoDaddy.com, LLC |
-| partners.rocks           | premium   | $1,000    | —             | 61             | 31     | 8      | name.com         |
-| maps.rocks               | available | $12.99    | —             | 56             | 31     | 4      | name.com         |
-| online.rocks             | resell    | —         | —             | 70             | 62     | 7      | Edomains LLC     |
-| pls.rocks                | premium   | $123.75   | —             | 60             | 23     | 3      | name.com         |
-| inspiration.rocks        | available | $12.99    | —             | 88             | 30     | 11     | name.com         |
-| the.rocks                | resell    | —         | —             | 88             | 57     | 3      | GoDaddy.com, LLC |
-| CapeCod.rocks            | premium   | $92.40    | $92.40        | 78             | 22     | 8      | namecheap        |
-| videos.rocks             | available | $12.99    | —             | 52             | 30     | 6      | name.com         |
-| street.rocks             | resell    | —         | —             | 70             | 33     | 6      | Spaceship, Inc.  |
-| mortgages.rocks          | premium   | $78.54    | $78.54        | 50             | 16     | 9      | namesilo         |
-| doctors.rocks            | available | $12.99    | —             | 56             | 26     | 7      | name.com         |
-| gems.rocks               | resell    | —         | —             | 70             | 28     | 4      | Porkbun LLC      |
-| tattooing.rocks          | premium   | $82.50    | —             | 68             | 5      | 9      | name.com         |
-| Trex.rocks               | available | $29.98    | —             | 80             | 24     | 5      | namecheap        |
-| KFC.rocks                | resell    | —         | —             | 74             | 27     | 3      | GoDaddy.com, LLC |
-| DistrictofColumbia.rocks | premium   | $92.40    | $92.40        | 52             | 4      | 20     | namecheap        |
-| deeplearning.rocks       | available | $12.99    | —             | 74             | 23     | 13     | name.com         |
-| plays.rocks              | resell    | —         | —             | 56             | 16     | 5      | GoDaddy.com, LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| circle.rocks  | available | $12.99    | —             | 68             | 45     | 6      | name.com            |
+| jenny.rocks   | resell    | $12.99    | —             | 87             | 23     | 5      | Dynadot Inc         |
+| new.rocks     | premium   | $78.54    | $78.54        | 82             | 48     | 3      | namesilo            |
+| stark.rocks   | available | $12.99    | —             | 82             | 44     | 5      | name.com            |
+| brain.rocks   | resell    | —         | —             | 70             | 48     | 5      | Spaceship, Inc.     |
+| NYC.rocks     | premium   | $854      | $854          | 82             | 42     | 3      | namesilo            |
+| rainbow.rocks | available | $12.99    | —             | 82             | 42     | 7      | name.com            |
+| sports.rocks  | resell    | —         | —             | 110            | 47     | 6      | Sav.com, LLC - 47   |
+| action.rocks  | premium   | $35.40    | $35.40        | 128            | 40     | 6      | namesilo            |
+| duke.rocks    | available | $12.99    | —             | 88             | 39     | 4      | name.com            |
+| water.rocks   | resell    | —         | —             | 108            | 44     | 5      | united-domains GmbH |
+| pool.rocks    | premium   | $242      | $242          | 66             | 39     | 4      | namesilo            |
+| public.rocks  | available | $12.99    | —             | 100            | 38     | 6      | name.com            |
+| will.rocks    | resell    | —         | —             | 90             | 42     | 4      | Tucows Domains Inc. |
+| berlin.rocks  | premium   | $854      | $854          | 78             | 34     | 6      | namesilo            |
+| fair.rocks    | available | $12.99    | —             | 82             | 38     | 4      | name.com            |
+| Flowers.rocks | resell    | —         | —             | 74             | 40     | 7      | GoDaddy.com, LLC    |
+| massage.rocks | premium   | $37.50    | —             | 94             | 32     | 7      | name.com            |
+| total.rocks   | available | $12.99    | —             | 108            | 37     | 5      | name.com            |
+| angel.rocks   | resell    | —         | —             | 98             | 39     | 5      | Dynadot Inc         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
