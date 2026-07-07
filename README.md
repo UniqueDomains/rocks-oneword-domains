@@ -1,10 +1,10 @@
-# Available .ROCKS One-Word Domains (10,488)
+# Available .ROCKS One-Word Domains (10,489)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C488%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C489%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .rocks one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,488 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,489 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,488 domains · **Median ask:** $19.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,489 domains · **Median ask:** $19.91 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/rocks`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/rocks`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ROCKS one-word domain
 
 ### Files
 
-- `rocks.csv` — public CSV extract (1,000 rows)
-- `rocks.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `rocks.csv`, public CSV extract (1,000 rows)
+- `rocks.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| circle.rocks  | available | $12.99    | —             | 68             | 45     | 6      | name.com            |
-| jenny.rocks   | resell    | $12.99    | —             | 87             | 23     | 5      | Dynadot Inc         |
-| new.rocks     | premium   | $78.54    | $78.54        | 82             | 48     | 3      | namesilo            |
-| stark.rocks   | available | $12.99    | —             | 82             | 44     | 5      | name.com            |
-| brain.rocks   | resell    | —         | —             | 70             | 48     | 5      | Spaceship, Inc.     |
-| NYC.rocks     | premium   | $854      | $854          | 82             | 42     | 3      | namesilo            |
-| rainbow.rocks | available | $12.99    | —             | 82             | 42     | 7      | name.com            |
-| sports.rocks  | resell    | —         | —             | 110            | 47     | 6      | Sav.com, LLC - 47   |
-| action.rocks  | premium   | $35.40    | $35.40        | 128            | 40     | 6      | namesilo            |
-| duke.rocks    | available | $12.99    | —             | 88             | 39     | 4      | name.com            |
-| water.rocks   | resell    | —         | —             | 108            | 44     | 5      | united-domains GmbH |
-| pool.rocks    | premium   | $242      | $242          | 66             | 39     | 4      | namesilo            |
-| public.rocks  | available | $12.99    | —             | 100            | 38     | 6      | name.com            |
-| will.rocks    | resell    | —         | —             | 90             | 42     | 4      | Tucows Domains Inc. |
-| berlin.rocks  | premium   | $854      | $854          | 78             | 34     | 6      | namesilo            |
-| fair.rocks    | available | $12.99    | —             | 82             | 38     | 4      | name.com            |
-| Flowers.rocks | resell    | —         | —             | 74             | 40     | 7      | GoDaddy.com, LLC    |
-| massage.rocks | premium   | $37.50    | —             | 94             | 32     | 7      | name.com            |
-| total.rocks   | available | $12.99    | —             | 108            | 37     | 5      | name.com            |
-| angel.rocks   | resell    | —         | —             | 98             | 39     | 5      | Dynadot Inc         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| content.rocks   | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
+| come.rocks      | available | $12.99    | —             | high           | low    | 4      | name.com                                                  |
+| action.rocks    | premium   | $35.40    | $35.40        | high           | medium | 6      | namesilo                                                  |
+| wholesale.rocks | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                                               |
+| there.rocks     | available | $12.99    | —             | high           | low    | 5      | name.com                                                  |
+| express.rocks   | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| dip.rocks       | available | $12.99    | $27.99        | high           | low    | 3      | name.com                                                  |
+| jenny.rocks     | resell    | $12.99    | —             | high           | low    | 5      | Dynadot Inc                                               |
+| fat.rocks       | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
+| due.rocks       | available | $12.99    | —             | high           | low    | 3      | name.com                                                  |
+| let.rocks       | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                                           |
+| new.rocks       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| Eid.rocks       | available | $12.99    | —             | high           | low    | 3      | name.com                                                  |
+| band.rocks      | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 22                                         |
+| NYC.rocks       | premium   | $854      | $854          | high           | medium | 3      | namesilo                                                  |
+| ill.rocks       | available | $12.99    | —             | medium         | low    | 3      | name.com                                                  |
+| geek.rocks      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
+| ser.rocks       | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                  |
+| MMR.rocks       | available | $12.99    | —             | high           | low    | 3      | name.com                                                  |
+| have.rocks      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,488 live domains                        |
+| 1,000-row public sample | 10,489 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .rocks domains. The set includes short dictionary-style words such as smooth.rocks, kind.rocks, born.rocks, and photo.rocks, alongside longer or more specific names like preventive.rocks and midFebruary.rocks. When comparing these domains, focus first on word quality and fit with the .rocks ending. Stronger options are usually easy to read, easy to say, and naturally reinforced by the extension. Weaker options are often longer, seasonal, harder to interpret, or too narrow. Price discipline matters here because the median ask is 16.9, so clarity and memorability should justify any higher ask you consider.
+This list includes one-word .rocks domain names such as just.rocks, damn.rocks, content.rocks, and hello.rocks. The .rocks extension pairs short, punchy words with an energetic tone, making these names easy to remember and quick to pronounce. Across this selection of 10,489 domains, the median ask sits near $20, keeping entry costs low. When comparing these domains, founders can look for a name that mirrors their brand voice, while investors can weigh cost against renewal and general demand for the .rocks extension.
 
-- Short words often read cleaner with .rocks
-- Long or seasonal names can be harder to reuse
-- Median ask is 16.9 across this selection
-- Check wording for trademark or ambiguity risk
+- 10,489 one-word .rocks domain names in this set
+- Median ask near $20 across the selection
+- Short, punchy names like hello.rocks and time.rocks
+- Low-cost entry point for testing a brandable .rocks name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
