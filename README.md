@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rocks one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,020 domains · **Median ask:** $12.70 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/rocks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| clx.rocks   | available | $5.99     | $27.99        | low            | low    | 3      | name.com          |
-| jenny.rocks | resell    | $12.99    | —             | high           | low    | 5      | Dynadot Inc       |
-| fat.rocks   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
-| dip.rocks   | available | $12.99    | $27.99        | high           | low    | 3      | name.com          |
-| bag.rocks   | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc       |
-| new.rocks   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
-| due.rocks   | available | $12.99    | —             | high           | low    | 3      | name.com          |
-| let.rocks   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.   |
-| NYC.rocks   | premium   | $854      | $854          | high           | medium | 3      | namesilo          |
-| Eid.rocks   | available | $12.99    | —             | high           | low    | 3      | name.com          |
-| band.rocks  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 22 |
-| ser.rocks   | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
-| ill.rocks   | available | $12.99    | —             | medium         | low    | 3      | name.com          |
-| geek.rocks  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| pool.rocks  | premium   | $242      | $242          | medium         | low    | 4      | namesilo          |
-| ixc.rocks   | available | $5.99     | $27.99        | low            | low    | 3      | name.com          |
-| have.rocks  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
-| asian.rocks | premium   | $82.50    | —             | high           | low    | 5      | name.com          |
-| MMR.rocks   | available | $12.99    | —             | high           | low    | 3      | name.com          |
-| quiz.rocks  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| come.rocks   | available | $12.99    | —             | high           | low    | 4      | name.com          |
+| action.rocks | premium   | $35.40    | $35.40        | high           | medium | 6      | namesilo          |
+| clx.rocks    | available | $5.99     | $27.99        | low            | low    | 3      | name.com          |
+| jenny.rocks  | resell    | $12.99    | —             | high           | low    | 5      | Dynadot Inc       |
+| fat.rocks    | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
+| dip.rocks    | available | $12.99    | $27.99        | high           | low    | 3      | name.com          |
+| bag.rocks    | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc       |
+| new.rocks    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| due.rocks    | available | $12.99    | —             | high           | low    | 3      | name.com          |
+| let.rocks    | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.   |
+| NYC.rocks    | premium   | $854      | $854          | high           | medium | 3      | namesilo          |
+| Eid.rocks    | available | $12.99    | —             | high           | low    | 3      | name.com          |
+| band.rocks   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 22 |
+| ser.rocks    | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
+| ill.rocks    | available | $12.99    | —             | medium         | low    | 3      | name.com          |
+| geek.rocks   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| pool.rocks   | premium   | $242      | $242          | medium         | low    | 4      | namesilo          |
+| ixc.rocks    | available | $5.99     | $27.99        | low            | low    | 3      | name.com          |
+| have.rocks   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| asian.rocks  | premium   | $82.50    | —             | high           | low    | 5      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
