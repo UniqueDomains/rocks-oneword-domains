@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rocks one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,821 domains · **Median ask:** $11.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/rocks`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | band.rocks  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 22 |
 | ser.rocks   | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
 | ill.rocks   | available | $12.99    | —             | medium         | low    | 3      | name.com          |
-| geek.rocks  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| have.rocks  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
 | pool.rocks  | premium   | $242      | $242          | medium         | low    | 4      | namesilo          |
 | ixc.rocks   | available | $5.99     | $27.99        | low            | low    | 3      | name.com          |
-| have.rocks  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| quiz.rocks  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 | asian.rocks | premium   | $82.50    | —             | high           | low    | 5      | name.com          |
 | mmr.rocks   | available | $12.99    | —             | high           | low    | 3      | name.com          |
-| quiz.rocks  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| shoe.rocks  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
