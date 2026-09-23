@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rocks one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,821 domains · **Median ask:** $11.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/rocks`
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | dip.rocks   | available | $12.99    | $27.99        | high           | low    | 3      | name.com          |
 | bag.rocks   | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc       |
 | new.rocks   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
-| due.rocks   | available | $12.99    | —             | high           | low    | 3      | name.com          |
+| due.rocks   | available | $7.98     | $29.98        | low            | low    | 3      | namecheap         |
 | let.rocks   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.   |
 | nyc.rocks   | premium   | $854      | $854          | high           | medium | 3      | namesilo          |
 | eid.rocks   | available | $12.99    | —             | high           | low    | 3      | name.com          |
@@ -81,7 +81,7 @@ print(df.head())
 | pool.rocks  | premium   | $242      | $242          | medium         | low    | 4      | namesilo          |
 | ixc.rocks   | available | $5.99     | $27.99        | low            | low    | 3      | name.com          |
 | quiz.rocks  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
-| asian.rocks | premium   | $82.50    | —             | high           | low    | 5      | name.com          |
+| asian.rocks | premium   | $78.54    | $78.54        | low            | low    | 5      | namesilo          |
 | mmr.rocks   | available | $12.99    | —             | high           | low    | 3      | name.com          |
 | shoe.rocks  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ROCKS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
