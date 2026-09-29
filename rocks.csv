@@ -1,4 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+4c9e919d-ccb7-4612-a2f3-5bfaba35b170,communion.rocks,available,6.93,17.8,medium,low,9,spaceship,,,29/09/2026 00:28
 a5a87d35-4491-4430-85c7-9d5ef8ca07d7,creates.rocks,available,11.99,21.99,medium,low,7,namesilo,,,25/09/2026 23:26
 8486ee8e-5307-4c2c-a9a9-5ce0a6e689e7,mutation.rocks,available,5.99,27.99,high,low,8,name.com,,,03/09/2026 11:41
 e53d215a-a5a9-4b10-b464-29e98542e3d5,slopped.rocks,available,5.99,27.99,low,low,7,name.com,,,09/08/2026 15:45
@@ -14,7 +15,9 @@ c41ed3a1-d08f-46fc-b9f1-9d24b0fc01e5,consort.rocks,available,11.99,21.99,high,lo
 5408e0bb-2efb-49a0-b9ce-a5ea9768b297,abbott.rocks,available,7.98,29.98,high,low,6,namecheap,,,27/09/2026 17:56
 0057860f-0dc8-43ce-819e-b76c248d136b,technique.rocks,available,11,29.98,high,low,9,unstoppable,,,28/09/2026 08:09
 df69bb84-6cb2-4d16-b6f7-b893fbe0e99d,galax.rocks,available,11.99,21.99,medium,low,5,namesilo,,,23/09/2026 01:54
+3245a3a5-8eb3-4408-b8de-b3aa8e87b7e9,waite.rocks,available,11,,medium,low,5,unstoppable,,,28/09/2026 19:55
 bab4e881-5c09-4fdb-aa4e-fa10f158c6de,beldam.rocks,available,11.99,21.99,medium,low,6,namesilo,,,23/09/2026 04:45
+e9fca40e-59af-4616-aac9-1edcb839ed7e,rhys.rocks,available,17.2,17.2,medium,low,4,cloudflare,,,28/09/2026 18:25
 3c394156-59da-46be-a182-0419df0f7361,bottomless.rocks,available,5.99,27.99,high,low,10,name.com,,,10/08/2026 21:21
 434f7575-0504-429f-8915-8b11fa538e50,pregnancy.rocks,premium,,,high,low,9,,,,28/09/2026 02:22
 336fb7f3-af95-471b-8238-7d71c3882ac7,westhill.rocks,available,12.99,,medium,low,9,name.com,,,
@@ -33,11 +36,14 @@ fbcc5871-5555-476a-ad59-e6c8b5abf951,decision.rocks,available,11.99,21.99,high,l
 7a3dcc5a-e6ad-488d-9fa4-feebccc4031e,lack.rocks,available,11.99,21.99,medium,low,4,namesilo,,,27/09/2026 03:43
 827e29f2-f6e1-4dfe-b487-9269f551082f,abysmal.rocks,available,5.99,27.99,medium,low,7,name.com,,,
 a4103070-d2d7-4f3f-afef-4ac06b65ec9c,footing.rocks,available,11.99,21.99,high,low,7,namesilo,,,22/09/2026 11:02
+2ba6af92-334f-4b3c-9e99-1d4652e0ca4a,carrot.rocks,available,11.99,21.99,high,low,6,namesilo,,,29/09/2026 00:20
 0dd5fdad-9ec8-4a58-b344-11293194b5f4,zestful.rocks,available,5.99,27.99,high,low,7,name.com,,,08/08/2026 19:51
+e19f3603-dc2e-4ac1-8e51-a188b37ad29f,apologized.rocks,available,17.2,17.2,low,low,10,cloudflare,,,29/09/2026 05:55
 db398237-11b5-455b-9ed8-54e4b9cdaf4f,skulls.rocks,available,11.99,21.99,medium,low,6,namesilo,,,20/09/2026 10:31
 ec73d7ee-f7c5-4ff3-9937-a973a7ffd46d,suspicious.rocks,available,5.99,27.99,medium,low,10,name.com,,,22/08/2026 22:28
 f49311bc-a6af-4ccc-a843-8d4ab265bbde,skimpy.rocks,available,7.98,29.98,high,low,6,namecheap,,,10/09/2026 09:36
 fd5eeef2-04f7-4251-a504-f83bfc450dd6,motherly.rocks,available,5.99,27.99,high,low,8,name.com,,,25/08/2026 07:06
+313ace83-9674-4835-8d1d-62011c15412c,vernon.rocks,available,6.93,17.8,high,low,6,spaceship,,,28/09/2026 15:42
 469660d0-cf8e-4455-ab3d-fe834a2f6305,banger.rocks,available,11.99,21.99,high,low,6,namesilo,,,22/09/2026 01:46
 55e2861c-7708-48c8-805f-f0dca2a97b02,hypotonic.rocks,available,5.99,27.99,medium,low,9,name.com,,,21/08/2026 17:19
 834a29eb-a16f-4a85-a4a1-9669e1d75f8d,smiths.rocks,available,7.98,29.98,medium,low,6,namecheap,,,19/09/2026 22:24
@@ -52,14 +58,17 @@ bf2678ba-69d0-4b31-bc8e-39145b8e1b3f,maoist.rocks,available,5.99,27.99,medium,lo
 2c1c8317-0204-4932-b39a-ca5f5aaf4b00,banyan.rocks,available,11.99,21.99,high,low,6,namesilo,,,22/09/2026 02:04
 8923c31b-acd6-426c-b5ad-a8faee39669a,outgoing.rocks,available,5.99,27.99,high,low,8,name.com,,,18/08/2026 12:37
 0267304d-a650-4acc-9063-69b87a220863,unrefined.rocks,available,5.99,27.99,medium,low,9,name.com,,,12/09/2026 17:28
+07703af7-2296-478c-9cbc-cf4ac17b9f4e,summers.rocks,available,11,,medium,low,7,unstoppable,,,29/09/2026 05:53
 8e0e772f-114f-4fdf-8eb6-71a09cb00bb7,lyrate.rocks,available,5.99,27.99,medium,low,6,name.com,,,24/08/2026 12:39
 859ab1f0-b47f-4c02-a585-ff35b95de62f,bankrupt.rocks,available,5.99,27.99,medium,low,8,name.com,,,08/08/2026 13:29
+5d92333d-e352-4fe0-9aef-3966cd689beb,guangzhou.rocks,premium,66.5,,medium,low,9,unstoppable,,,28/09/2026 13:37
 e10137fa-a320-4e67-abeb-06c59d638b38,dementia.rocks,available,11.99,21.99,high,low,8,namesilo,,,24/09/2026 21:47
 e79d5791-9379-4351-a43a-7d29576fb20b,maintenance.rocks,available,3.5,18.41,high,low,11,dynadot,,,27/09/2026 21:41
 1e738b66-3d30-4bf1-b597-d06aab3a1d1e,vaughn.rocks,available,11.99,21.99,high,low,6,namesilo,,,27/09/2026 11:16
 d854df6c-8e87-4a82-9895-9eb65fc8d94d,barrie.rocks,available,11.99,21.99,medium,low,6,namesilo,,,22/09/2026 08:37
 1f10e1cd-5366-4080-9cc8-820a9268c330,dormant.rocks,available,5.99,27.99,high,low,7,name.com,,,
 5e5a5772-d974-4696-bacf-336ce827d335,isotonic.rocks,available,5.99,27.99,medium,low,8,name.com,,,22/08/2026 11:18
+ebd65b5c-06eb-44f3-a312-9ed9bc40ddf3,luz.rocks,available,11.99,21.99,medium,low,3,namesilo,,,28/09/2026 21:47
 d5a59808-9c4d-425e-9201-0d6443f6375d,calculations.rocks,available,11.99,21.99,medium,low,12,namesilo,,,17/09/2026 02:07
 169790cf-97a2-477f-ace4-0a54fc416ad0,basileus.rocks,available,7.98,29.98,medium,low,8,namecheap,,,22/09/2026 10:47
 236053cf-1fa7-41b7-b4b5-40d569494034,munition.rocks,available,7.98,29.98,medium,low,8,namecheap,,,20/09/2026 07:44
@@ -67,17 +76,20 @@ d5a59808-9c4d-425e-9201-0d6443f6375d,calculations.rocks,available,11.99,21.99,me
 d771c60b-5128-41a6-b899-78205161d901,irritation.rocks,available,5.99,27.99,medium,low,10,name.com,,,
 678a7cde-a4c0-44b5-bdb1-24f7397951ae,binding.rocks,available,7.98,29.98,high,low,7,namecheap,,,22/09/2026 20:51
 60c4cd93-0dab-4df9-9526-7cb4765d140f,carping.rocks,available,5.99,27.99,medium,low,7,name.com,,,18/08/2026 00:03
+6a2e3d36-6566-4dd5-bdd4-88f4197e206b,cowboys.rocks,available,17.2,17.2,high,low,7,cloudflare,,,28/09/2026 12:01
 227a1a3f-73c7-42f9-b69b-6341f0f9b536,ruin.rocks,available,5.99,27.99,high,low,4,name.com,,,08/08/2026 13:39
 affdabb5-e2e2-494f-a440-5603683c084f,waitress.rocks,available,6.93,17.8,high,low,8,spaceship,,,27/09/2026 16:14
 298a7961-5d08-4f74-a4e9-a1df4d2f214f,conclusions.rocks,available,3.6,18.02,medium,low,11,porkbun,,,28/09/2026 08:35
 2884987e-72c9-4e7f-9859-efbe9c5075f1,prison.rocks,available,12.99,,high,low,6,name.com,,,
 8e63b9db-3fb5-48f3-930f-790bf2ef6080,protester.rocks,available,5.99,27.99,medium,low,9,name.com,,,14/08/2026 12:41
+f9b1dc4f-ed18-4c0d-898d-938e50e185cd,preach.rocks,available,6.93,17.8,high,low,6,spaceship,,,28/09/2026 15:35
 4185b04d-4901-47cf-b8ce-c19603e1b3d9,rented.rocks,available,7.98,29.98,medium,low,6,namecheap,,,17/09/2026 18:45
 4241e9dd-aa07-4bc6-8b29-635e541b9403,begetter.rocks,available,11.99,21.99,medium,low,8,namesilo,,,23/09/2026 02:08
 cb1db821-8e05-4907-b2dc-b46a3e5b819e,advisable.rocks,available,5.99,27.99,high,low,9,name.com,,,
 fee79bcd-ed68-49ce-8fbf-fd7692e75597,dizzily.rocks,available,7.98,29.98,medium,low,7,namecheap,,,14/09/2026 13:29
 28f06e2d-2576-433e-9441-a7c91cb17a81,balmoral.rocks,available,11.99,21.99,high,low,8,namesilo,,,21/09/2026 23:39
 b7f7789b-7b2e-4ec6-a77f-16b99ec94218,stunningly.rocks,available,11.99,21.99,medium,low,10,namesilo,,,16/09/2026 06:09
+6d89a70f-4871-46fa-ab4f-3fd0c2168d1e,barton.rocks,available,11.99,21.99,high,low,6,namesilo,,,28/09/2026 11:33
 f87c3d64-7ade-418d-8a72-3f756ebc1d00,slammer.rocks,available,7.98,29.98,medium,low,7,namecheap,,,08/09/2026 22:49
 8aa1ff36-9c12-44bc-b924-c07862764304,waning.rocks,available,7.98,29.98,medium,low,6,namecheap,,,13/09/2026 08:04
 483e883a-4cf7-43d5-aa48-e099b04c10b9,tauten.rocks,available,5.99,27.99,medium,low,6,name.com,,,18/08/2026 05:16
@@ -103,8 +115,8 @@ a2f0ca22-2eeb-43ed-bd6b-f567b2892903,frostbite.rocks,available,7.98,29.98,medium
 c5d53c30-921b-4d80-889a-d4760022302a,olson.rocks,available,11.99,21.99,medium,low,5,namesilo,,,27/09/2026 01:46
 4a5ad660-6eae-459c-97f6-6ea7e15e1d1c,shirley.rocks,available,7.98,29.98,high,low,7,namecheap,,,25/09/2026 13:56
 27cbff37-5547-42e0-8497-5690159ddda7,armistice.rocks,available,11.99,21.99,medium,low,9,namesilo,,,20/09/2026 07:13
-32533bad-9a3d-436b-a1e1-aedb4f2fd137,aspirin.rocks,available,,,high,medium,7,,,,
-64f12c38-153b-4171-bc0e-a6cc3b32e138,carrier.rocks,available,12.99,,high,low,7,name.com,,,
+64f12c38-153b-4171-bc0e-a6cc3b32e138,carrier.rocks,available,6.93,17.8,high,low,7,spaceship,,,28/09/2026 19:39
+ee275bfc-d8bd-4a92-be48-477d1d9b00b5,descending.rocks,available,6.93,17.8,medium,low,10,spaceship,,,28/09/2026 21:15
 39a08561-709b-4edb-824d-3b42d63681e4,lessons.rocks,available,7.98,29.98,medium,low,7,namecheap,,,25/09/2026 19:53
 1d82e821-f23c-49fd-a1ed-f33847c8725e,docile.rocks,available,5.99,27.99,medium,low,6,name.com,,,14/08/2026 14:17
 8f28e8e1-c099-43f4-9734-1c8429748c34,blanquillo.rocks,available,11.99,21.99,medium,low,10,namesilo,,,24/09/2026 04:04
@@ -116,6 +128,7 @@ d1a36a72-d62a-4170-ad5e-ec9f7662fea3,margaret.rocks,available,5.99,27.99,medium,
 c7d9f5a7-b6b7-4898-9647-c81918d4d283,receive.rocks,available,12.99,,high,low,7,name.com,,,
 58867579-5a12-42a1-89e6-a18eb9d7a339,allison.rocks,available,7.98,29.98,medium,low,7,namecheap,,,25/09/2026 17:48
 f6c7467a-b4bf-4d99-b9a4-ce2b895a53cc,worry.rocks,available,12.99,,high,low,5,name.com,,,
+fe94cb74-1d2d-4715-8c24-61ac244d025c,oper.rocks,available,6.93,17.8,high,low,4,spaceship,,,28/09/2026 21:34
 0de16b18-fd4f-45bc-aea3-86e8bd5f6a99,selection.rocks,available,11.99,21.99,high,low,9,namesilo,,,28/09/2026 07:48
 8263ee5b-88b9-49b3-b1ba-9dcd2bcfe65d,immovable.rocks,available,5.99,27.99,medium,low,9,name.com,,,21/08/2026 21:17
 ecbe5de4-4ca6-4fdd-b164-9c345a635047,tommyrot.rocks,available,11.99,21.99,medium,low,8,namesilo,,,21/09/2026 23:53
@@ -136,6 +149,7 @@ f96e5976-4d95-46d1-a00d-131376ba0866,maintain.rocks,available,12.99,,high,low,8,
 e25d529c-a51c-46bc-988a-ae21d1118d9b,banister.rocks,available,5.99,27.99,medium,low,8,name.com,,,22/09/2026 00:28
 1a31661d-cd43-4274-ba14-16fef5fb9472,programme.rocks,available,11.99,21.99,high,low,9,namesilo,,,24/09/2026 16:59
 d26a9618-c6d8-4ed8-af6b-a7c8a259079e,copperhead.rocks,available,7.98,29.98,medium,low,10,namecheap,,,17/09/2026 18:16
+ac6e0652-e651-4d6c-ba15-0a07cbd712b4,rehab.rocks,resell,,,high,low,5,,,,28/09/2026 22:56
 11622e08-f4d2-4449-9622-8b07fc14447c,parochial.rocks,available,7.98,29.98,medium,low,9,namecheap,,,08/09/2026 01:46
 fd5df571-511d-4d71-b438-96d2c56e682d,creditable.rocks,available,5.99,27.99,high,low,10,name.com,,,13/08/2026 05:54
 676316b8-2414-4d4c-84ba-f7dd94759d4d,apiece.rocks,available,5.99,27.99,medium,low,6,name.com,,,14/08/2026 22:12
@@ -146,6 +160,7 @@ ff020ac3-c14b-498b-b1be-6678e9ec25f0,ascription.rocks,available,11.99,21.99,medi
 1f5128cd-ec27-4da6-ae16-f6ae1652255e,petitioner.rocks,available,7.98,29.98,medium,low,10,namecheap,,,11/09/2026 03:30
 6fa670bf-05db-4ba5-9931-c18624bdae31,acerb.rocks,available,5.99,27.99,medium,low,5,name.com,,,
 16d589e3-a25e-4115-9a20-94ca81943f21,mucky.rocks,available,5.99,27.99,medium,low,5,name.com,,,10/08/2026 17:06
+7b26d04f-744e-435e-ad82-7a1397ee84d3,targeting.rocks,available,7.98,29.98,medium,low,9,namecheap,,,29/09/2026 03:22
 c215d62e-fed4-4155-80ed-9bf9e832dc22,foam.rocks,available,11.99,21.99,high,low,4,namesilo,,,28/09/2026 05:46
 72168a68-a57f-4a87-a4c5-bbaf878dcd30,lust.rocks,available,12.99,,high,low,4,name.com,,,
 5b872c4d-764b-4e97-92c2-af135844d092,laptop.rocks,available,12.99,,high,low,6,name.com,,,
@@ -160,6 +175,7 @@ d5ee2dcc-eb2c-470c-9769-5081df875c7a,asymptotic.rocks,available,5.99,27.99,mediu
 eff0b4e5-c896-4d7a-b9f4-d9226a16d82c,avocation.rocks,available,11.99,21.99,medium,low,9,namesilo,,,21/09/2026 09:37
 ac6f3d5f-7cdf-4aea-8b30-a2faa21b34c0,comments.rocks,available,11.99,21.99,medium,low,8,namesilo,,,17/09/2026 01:39
 4597ae28-2047-4a6f-9a04-de543d8d9285,belladonna.rocks,available,11.99,21.99,medium,low,10,namesilo,,,21/09/2026 00:55
+624be892-3c2b-4447-8466-9a10f8a945e8,coaster.rocks,available,6.93,17.8,high,low,7,spaceship,,,28/09/2026 18:46
 4d97075b-1aab-4a09-a863-8f05734b8521,andover.rocks,available,17.2,17.2,medium,low,7,cloudflare,,,27/09/2026 18:38
 e24dbe07-0836-4f5b-b115-277245b8d96d,trilingual.rocks,available,7.98,29.98,high,low,10,namecheap,,,11/09/2026 19:48
 26dd8717-e4c9-4cc5-88ca-2bb366164cce,palpebrate.rocks,available,7.98,29.98,medium,low,10,namecheap,,,05/09/2026 00:15
@@ -167,9 +183,11 @@ fde06c39-8bfd-4781-aad8-e5a33109e858,dumbstruck.rocks,available,5.99,27.99,mediu
 0fa15f6a-cbaa-40e3-b49c-f821a88c7d9b,prizes.rocks,available,11.99,21.99,medium,low,6,namesilo,,,20/09/2026 04:19
 ebd3a0b7-3565-423b-b889-d0ab9f72b3c6,burping.rocks,available,7.98,29.98,medium,low,7,namecheap,,,23/09/2026 04:38
 680f30de-5cd7-46ab-ad5a-3b7d62383492,dighted.rocks,available,5.99,27.99,low,low,7,name.com,,,14/08/2026 07:17
+7c36e50e-90ee-494d-b3e2-08c17f186b85,islets.rocks,available,6.93,17.8,medium,low,6,spaceship,,,29/09/2026 00:10
 66c2fd52-9c15-4ee5-bcf1-2f9ecb6c38bb,denied.rocks,available,11.99,21.99,low,low,6,namesilo,,,27/09/2026 02:21
 c09fa94e-502a-4ab5-9763-e5275996d0a3,calced.rocks,available,5.99,27.99,medium,low,6,name.com,,,11/08/2026 13:41
 5065fab8-bd0c-4b2a-bb07-6717e9d110d1,victuals.rocks,available,5.99,27.99,medium,low,8,name.com,,,12/08/2026 18:52
+51ff08ef-13c0-404c-b9d0-ae2980d82868,regain.rocks,available,6.93,17.8,high,low,6,spaceship,,,29/09/2026 02:45
 f641d72f-94b5-4593-8d9e-08a551b4dde6,cheat.rocks,available,5.99,27.99,high,low,5,name.com,,,12/08/2026 03:31
 0fa5549a-114e-47d7-baca-ca39a3cb5c79,clothed.rocks,available,5.99,27.99,high,low,7,name.com,,,12/08/2026 09:12
 d086b50a-1310-4e6b-b3c1-85052d66c2d3,bitters.rocks,available,11.99,21.99,medium,low,7,namesilo,,,23/09/2026 23:09
@@ -178,6 +196,7 @@ dacceefc-a7b3-425d-8c63-9d1b97597bec,cloudberry.rocks,available,7.98,29.98,mediu
 8f3c23c9-9771-487a-9c22-f9eb0614eb8c,jinxed.rocks,available,5.99,27.99,medium,low,6,name.com,,,21/08/2026 07:53
 50588d91-e94c-4312-96ab-ba6843667bdd,toe.rocks,available,,,medium,low,3,,,,
 dfce7835-6297-4a65-8f04-b57bd62e417e,nonsteroid.rocks,available,7.98,29.98,medium,low,10,namecheap,,,03/09/2026 20:43
+c62f1b78-c949-469f-b72a-b4dd5b3a572b,nightclub.rocks,available,6.93,17.8,high,low,9,spaceship,,,29/09/2026 00:18
 b049417e-822b-4e5c-8085-d213dbfff5d1,basle.rocks,available,7.98,29.98,medium,low,5,namecheap,,,22/09/2026 10:14
 898a71f1-53d3-47f5-b883-bbbe0c95bb5a,alternative.rocks,premium,118.8,118.8,high,low,11,namesilo,,,26/09/2026 00:42
 5dd1c61b-7923-40e8-a189-e8aa078d0f50,alcaeus.rocks,available,11.99,21.99,medium,low,7,namesilo,,,18/09/2026 03:40
@@ -192,7 +211,9 @@ c49d8039-e548-4a38-a52c-6bf51d488f09,vandalism.rocks,available,12.99,,medium,low
 61ac8466-9876-4c7b-92e9-b1fc688c9f80,bernard.rocks,available,11.99,21.99,medium,low,7,namesilo,,,23/09/2026 09:46
 729defad-932e-40ef-b945-dd3df92cd400,explosive.rocks,available,5.99,27.99,high,low,9,name.com,,,17/08/2026 18:33
 5c53f239-3f37-4bcc-88eb-41b278c0fff0,hinault.rocks,available,11.99,21.99,medium,low,7,namesilo,,,23/09/2026 09:48
+1af1ab71-27bb-42de-9740-dccd2534c193,reproduce.rocks,available,6.93,17.8,high,low,9,spaceship,,,28/09/2026 20:51
 8ca5749e-9245-4f6a-a4de-4b3a6be17fa7,hafnium.rocks,available,11.99,21.99,medium,low,7,namesilo,,,20/09/2026 23:42
+6f4b1b0e-2d75-492b-91be-2f10c0f00018,sally.rocks,available,11,,high,low,5,unstoppable,,,28/09/2026 20:21
 b1f696ab-1273-44a0-97c3-bd564be92a64,mussolini.rocks,available,11.99,21.99,medium,low,9,namesilo,,,23/09/2026 08:12
 61cf8e01-2985-451d-b866-5a9aacb2363c,securing.rocks,available,12.99,,medium,low,8,name.com,,,
 5c1141f4-d132-47bb-a591-2debcedfa2a4,complicate.rocks,available,7.98,29.98,high,low,10,namecheap,,,08/09/2026 14:25
@@ -205,6 +226,7 @@ b1f696ab-1273-44a0-97c3-bd564be92a64,mussolini.rocks,available,11.99,21.99,mediu
 c48a671c-27c1-463f-acb0-6436d6b10458,analogist.rocks,available,11.99,21.99,medium,low,9,namesilo,,,19/09/2026 01:52
 a4244c15-8970-4297-b1e6-8e7d808e641d,chirp.rocks,available,7.98,29.98,high,low,5,namecheap,,,24/09/2026 14:08
 4d6cac66-5172-4030-b01f-23ce5d403b72,packages.rocks,available,11.99,21.99,medium,low,8,namesilo,,,19/09/2026 00:23
+a896351b-eb2b-49f4-9e2b-adf3b6daa1f1,teenagers.rocks,available,17.2,17.2,medium,low,9,cloudflare,,,28/09/2026 13:27
 7bf1f205-5589-48d4-9a54-9197b598a8af,proves.rocks,available,7.98,29.98,medium,low,6,namecheap,,,18/09/2026 07:04
 b86d96e0-bca6-4c4d-a6f4-2e7d94869ef7,ballad.rocks,available,5.99,27.99,high,low,6,name.com,,,22/08/2026 21:27
 6eb33a7c-df30-4ac2-8c51-972078df3b4c,bouncy.rocks,available,7.98,29.98,high,low,6,namecheap,,,23/09/2026 01:24
@@ -240,7 +262,7 @@ e4ddaf7a-bc25-41bd-9837-1607522a8c7f,crucially.rocks,available,5.99,27.99,medium
 ce17eccf-1956-45e9-8d49-48ff9569963e,tannic.rocks,available,7.98,29.98,medium,low,6,namecheap,,,11/09/2026 08:01
 2c66add6-fa4f-42d6-b07c-ece6b803b77c,truncate.rocks,available,7.98,29.98,high,low,8,namecheap,,,11/09/2026 20:40
 1fb687f2-9ac8-47bc-82ab-2a62e145e4c5,helped.rocks,available,7.98,29.98,medium,low,6,namecheap,,,25/09/2026 18:33
-51a0215d-8274-4b4f-b75f-791e0c35a710,garden.rocks,resell,,,high,low,6,Dynadot Inc,23/11/2021 18:56,23/11/2026 18:56,27/09/2026 01:57
+51a0215d-8274-4b4f-b75f-791e0c35a710,garden.rocks,resell,,,high,low,6,Dynadot Inc,23/11/2021 18:56,23/11/2026 18:56,28/09/2026 23:23
 975af568-2cc2-41fb-ad2c-e877481fc6fa,disgraced.rocks,available,5.99,27.99,medium,low,9,name.com,,,14/08/2026 10:21
 c046913c-63e4-49cc-b0fc-6389bfaca3b5,raiment.rocks,available,7.98,29.98,medium,low,7,namecheap,,,19/09/2026 19:57
 defd638f-8da0-4a24-890c-0eed1cd728e6,dances.rocks,available,12.99,,high,low,6,name.com,,,
@@ -253,6 +275,8 @@ defd638f-8da0-4a24-890c-0eed1cd728e6,dances.rocks,available,12.99,,high,low,6,na
 238476b1-b497-4dba-a855-3207f68259be,misty.rocks,available,5.99,27.99,high,low,5,name.com,,,11/08/2026 06:51
 0c7c85c6-e3de-441d-ac18-8a17d4792aa8,ablative.rocks,available,5.99,27.99,medium,low,8,name.com,,,
 81d24b03-baa9-4580-b11a-fb418b2de46b,achomawi.rocks,available,11.99,21.99,medium,low,8,namesilo,,,17/09/2026 00:49
+af3c7421-b15b-4932-949b-aee5441745ff,rufus.rocks,available,11,,medium,low,5,unstoppable,,,28/09/2026 16:19
+e6bedd18-2783-4419-97cd-3cd169525cb0,banana.rocks,available,7.98,29.98,high,medium,6,namecheap,,,29/09/2026 00:54
 ec905673-4e1e-4b16-8ea3-915a9e5193ce,costly.rocks,available,11.99,21.99,high,low,6,namesilo,,,24/09/2026 00:19
 cf04169f-e546-47f6-af74-b1d0527bdfd1,harmony.rocks,resell,,,high,low,7,Dynadot Inc,22/06/2026 17:00,22/06/2027 17:00,26/09/2026 06:35
 965fa066-36f6-4539-973d-e740d17f0da2,misgiving.rocks,available,11.99,21.99,medium,low,9,namesilo,,,24/09/2026 23:11
@@ -275,9 +299,12 @@ eb38f4a3-f889-4c9b-a136-e8d742d960a7,horrifying.rocks,available,5.99,27.99,mediu
 37c69c84-308c-4f23-8bba-96a87f797fae,backward.rocks,available,11.99,21.99,high,low,8,namesilo,,,22/09/2026 15:53
 9cbdc0e1-71f8-4fe3-996f-835d97f61af8,arachnoid.rocks,available,5.99,27.99,medium,low,9,name.com,,,06/08/2026 11:41
 ba8ed6a3-327f-4329-8097-882798180527,honduran.rocks,available,5.99,27.99,high,low,8,name.com,,,21/08/2026 13:17
+c9ab4dc6-0376-4826-b7e5-e93dac86acbb,maternity.rocks,available,17.2,17.2,high,low,9,cloudflare,,,28/09/2026 19:52
 173970aa-07a6-404e-a52a-bf7fc38c40fc,rude.rocks,available,11.99,21.99,high,low,4,namesilo,,,22/09/2026 16:12
+f2444dc2-a2cb-482d-b90c-1ca5d67c7932,conventional.rocks,available,17.2,17.2,medium,low,12,cloudflare,,,28/09/2026 11:12
 8baf4519-3302-4745-b8f0-c12a3f482697,panels.rocks,available,11.99,21.99,medium,low,6,namesilo,,,19/09/2026 23:14
 ebea996d-20a4-47a4-8d3f-b107b393f9af,malaria.rocks,available,12.99,,medium,low,7,name.com,,,
+64affd58-8149-4b57-89d2-3c2b69f06a0b,flows.rocks,available,3.5,18.41,medium,low,5,dynadot,,,28/09/2026 22:43
 54a7d5c8-e256-4775-8c01-dc543a70de23,doob.rocks,available,7.98,29.98,medium,low,4,namecheap,,,21/09/2026 18:37
 2885be6c-c3a5-403b-8761-4be571856a2e,actaea.rocks,available,11.99,21.99,medium,low,6,namesilo,,,17/09/2026 04:11
 b65d81c0-2bff-4003-ab68-8b684dd268b4,cia.rocks,available,11.99,21.99,high,medium,3,namesilo,,,24/09/2026 13:36
@@ -295,8 +322,10 @@ da703f5f-9b2a-40dc-b632-5b2b117564b1,biosafety.rocks,available,7.98,29.98,high,l
 989b65a4-d9fb-46f8-9f66-9e616375bd11,endearing.rocks,available,7.98,29.98,high,low,9,namecheap,,,21/09/2026 19:24
 d84f85cb-ce0a-4f21-be4d-aa96ee7fd14a,tells.rocks,available,7.98,29.98,medium,low,5,namecheap,,,18/09/2026 14:10
 d97c6ba8-2fbb-45da-a9b8-b3a048ad5e25,continent.rocks,available,5.99,27.99,high,low,9,name.com,,,11/08/2026 23:26
+538ec0b8-1659-40ee-829e-cbb19ce2d896,irvin.rocks,available,11.99,21.99,medium,low,5,namesilo,,,28/09/2026 16:39
 82610b2e-1ea3-49b0-a6ce-a65cb2263169,shears.rocks,available,12.99,,high,low,6,name.com,,,
 db7c0c2f-e684-487d-b7c1-ed0fededec7f,centrally.rocks,available,7.98,29.98,medium,low,9,namecheap,,,14/09/2026 06:13
+adb45b5a-d797-4ea2-83cd-fa1df5602274,cations.rocks,available,6.93,17.8,low,low,7,spaceship,,,28/09/2026 23:14
 1d3f058f-41d2-4005-8420-7f3e2ddb8180,avenger.rocks,available,11.99,21.99,high,low,7,namesilo,,,21/09/2026 08:56
 2f620210-ade9-4c38-9cf1-4238ff6b1079,email.rocks,premium,854,854,high,medium,6,namesilo,,,
 b31b64bb-266e-48fc-8653-ca6a57b8ba75,bontemps.rocks,available,11.99,21.99,high,low,8,namesilo,,,20/09/2026 08:07
@@ -323,15 +352,17 @@ a0252ebf-08cd-4a77-8c70-b2fe978947c4,pondering.rocks,available,5.99,27.99,high,l
 becc069d-f2f1-4ab5-a962-c7e8d2391765,vented.rocks,available,7.98,29.98,medium,low,6,namecheap,,,13/09/2026 02:12
 ed8aa51d-015f-4706-ba56-15d67c667883,deflation.rocks,available,12.99,,medium,low,9,name.com,,,
 e4d5b05e-fe1c-4ff6-aca5-d55b3e5021e7,preferences.rocks,available,7.98,29.98,high,low,11,namecheap,,,
-91284b59-612d-4d58-9e03-b4149f6a5df8,hercules.rocks,available,12.99,,high,low,8,name.com,,,
+91284b59-612d-4d58-9e03-b4149f6a5df8,hercules.rocks,available,3.6,18.02,high,low,8,porkbun,,,28/09/2026 20:10
 cf8f0f85-7992-4373-ae84-834045a8720d,hoary.rocks,available,5.99,27.99,medium,low,5,name.com,,,20/08/2026 19:20
 b3ec0fd4-0448-49a5-b5a2-fd610f6231f0,exchanges.rocks,available,7.98,29.98,medium,low,9,namecheap,,,25/09/2026 06:05
+3875f0f7-6b9e-403b-a507-99fc8beb261a,refugee.rocks,available,17.2,17.2,high,low,7,cloudflare,,,28/09/2026 20:17
 eef639ee-1c6a-423b-b216-a65bcd743788,nonmetric.rocks,available,7.98,29.98,medium,low,10,namecheap,,,03/09/2026 18:30
 4a554aab-d212-46ef-a000-c0c056c1bdd8,bewitched.rocks,available,5.99,27.99,medium,low,9,name.com,,,09/08/2026 18:17
 77c7846b-46b6-4368-8b3c-9d5684c7a2fb,harnessed.rocks,available,5.99,27.99,medium,low,9,name.com,,,21/08/2026 01:05
 52424c4a-084c-4ac0-8b5d-63f219dd24f8,stripling.rocks,available,5.99,27.99,high,low,9,name.com,,,
 a30702c8-edff-412e-8cf1-ef1f2f3dcd9f,wheaton.rocks,premium,99.5,,high,low,7,unstoppable,,,28/09/2026 07:32
-c878bfe7-5b00-48b6-9786-f69f01cbe143,attempt.rocks,available,12.99,,high,low,7,name.com,,,
+c878bfe7-5b00-48b6-9786-f69f01cbe143,attempt.rocks,available,17.2,17.2,high,low,7,cloudflare,,,28/09/2026 23:03
+f35678d4-5c2c-4481-a882-15d8a77a364a,escaping.rocks,available,17.2,17.2,high,low,8,cloudflare,,,28/09/2026 21:14
 2aa3280b-f285-4924-9d60-cee341e44703,agiotage.rocks,available,7.98,29.98,medium,low,8,namecheap,,,17/09/2026 18:03
 0a78570e-ad16-4bc8-b913-f24ba2f1834f,katari.rocks,available,5.99,27.99,medium,low,6,name.com,,,22/08/2026 15:12
 1ece8cb5-c96b-44fa-97df-5035800b7038,reformed.rocks,available,7.98,29.98,high,low,9,namecheap,,,09/09/2026 10:53
@@ -342,10 +373,11 @@ f9c51424-5777-49f9-ab44-4efbab65a8bd,arrayed.rocks,available,5.99,27.99,medium,l
 03475977-c616-4c6f-ad97-93a4bbb1d947,unco.rocks,available,7.98,29.98,medium,low,4,namecheap,,,15/09/2026 23:08
 88ce1481-9b7b-4811-9c3c-5d6db15c6e15,official.rocks,available,11.99,21.99,high,low,8,namesilo,,,26/09/2026 00:05
 16abcee0-fdb2-4a34-88b3-bf6a1ea6767d,shyly.rocks,available,7.98,29.98,medium,low,5,namecheap,,,13/09/2026 23:37
-14f2f333-7886-48dd-9a45-e76adedcff30,anywhere.rocks,available,12.99,,high,low,8,name.com,,,
+14f2f333-7886-48dd-9a45-e76adedcff30,anywhere.rocks,available,11.99,21.99,high,low,8,namesilo,,,28/09/2026 12:18
 25382124-37d7-467a-9249-ddea4abe5c26,impound.rocks,available,5.99,27.99,high,low,7,name.com,,,12/08/2026 21:04
 34fbac92-d39f-4227-a28f-d066fe3855d7,formative.rocks,available,5.99,27.99,high,low,9,name.com,,,18/08/2026 12:07
 b2d24f07-a8ef-4f09-a693-19e6f5f7fbd8,sestet.rocks,available,5.99,27.99,medium,low,6,name.com,,,
+fdbf3875-480a-441a-a78f-e58a4547dc7b,exams.rocks,available,6.93,17.8,medium,low,5,spaceship,,,28/09/2026 23:32
 c964cf24-37ba-41ec-99ff-409d3a674d16,burp.rocks,available,7.98,29.98,high,low,4,namecheap,,,23/09/2026 04:37
 db7311cf-36b4-4bba-8607-ddd541d09aba,subdued.rocks,available,5.99,27.99,medium,low,7,name.com,,,14/08/2026 07:54
 baa9dd50-efa8-47b8-bce1-9a0c75f0a112,aileron.rocks,available,7.98,29.98,medium,low,7,namecheap,,,17/09/2026 21:10
@@ -359,9 +391,11 @@ c81be45a-988b-4149-b338-1e1e0185f712,tyke.rocks,available,5.99,27.99,high,low,4,
 8b279957-3d91-4bce-81e3-7c48a8d2af5c,spender.rocks,available,11.99,21.99,high,low,7,namesilo,,,19/09/2026 09:49
 e80c4be4-cf7e-495a-b3f3-667f9054afdc,filial.rocks,available,5.99,27.99,medium,low,6,name.com,,,18/08/2026 04:17
 f2fe5fa6-4b09-44f5-b43c-eae248957a3b,portend.rocks,available,11.99,21.99,medium,low,7,namesilo,,,21/09/2026 03:29
+66982fa1-e35f-48b0-b0cf-d373a957ec2a,token.rocks,resell,,,high,medium,5,,,,28/09/2026 09:22
 7544d441-4b5a-4ce7-8db8-7fb19ad5e63b,ambrosian.rocks,available,5.99,27.99,high,low,9,name.com,,,
 7aad7814-9d08-4d31-b4b6-7fcef9e0d049,frilled.rocks,available,5.99,27.99,medium,low,7,name.com,,,18/08/2026 15:49
 cb977359-0fef-40f3-ae32-cdf7fbe45d76,arabis.rocks,available,11.99,21.99,medium,low,6,namesilo,,,19/09/2026 23:33
+ad539086-fff4-4997-a973-4a108d1dfa98,purity.rocks,available,3.5,18.41,high,low,6,dynadot,,,28/09/2026 15:09
 05d4cdf0-617b-435f-be98-b895f9097da9,semitic.rocks,available,7.98,29.98,medium,low,7,namecheap,,,10/09/2026 03:32
 0c1844d2-f11d-4362-8122-2cb7c3db79bf,arithmancy.rocks,available,11.99,21.99,medium,low,10,namesilo,,,20/09/2026 06:00
 ec9c4461-ca85-4ee6-b469-bba90b67cce7,cuneiform.rocks,available,5.99,27.99,medium,low,9,name.com,,,13/08/2026 10:34
@@ -376,7 +410,7 @@ d18032c3-6851-4742-9ab3-8de420ae5463,mannerly.rocks,available,5.99,27.99,medium,
 b65d4458-ec8b-4615-8226-829c1773a5c1,frigid.rocks,available,5.99,27.99,medium,low,6,name.com,,,18/08/2026 15:46
 27a90e36-0ff4-4bc2-8c08-4b6deda5b4f5,separation.rocks,available,12.99,,high,low,10,name.com,,,
 e2eeda54-d2fa-4000-8b12-9e928bbd8997,fixed.rocks,available,7.98,29.98,high,low,5,namecheap,,,24/09/2026 19:10
-c2131367-5329-49ba-a6f3-4416ad263115,calculation.rocks,available,11.99,21.99,high,low,11,namesilo,,,25/09/2026 04:46
+c2131367-5329-49ba-a6f3-4416ad263115,calculation.rocks,available,11.99,21.99,medium,low,11,namesilo,,,28/09/2026 12:48
 c6f9dee3-e6d3-49dc-963b-451563685b3e,need.rocks,available,11.99,21.99,high,low,4,namesilo,,,25/09/2026 21:55
 7ba7dd86-5ea7-40b1-b897-c8e9e8bfd3c1,voluble.rocks,available,7.98,29.98,medium,low,7,namecheap,,,13/09/2026 06:59
 1489c165-f094-4aa7-adcd-69186c09cfb0,opencast.rocks,available,7.98,29.98,medium,low,8,namecheap,,,04/09/2026 16:08
@@ -394,6 +428,8 @@ ac9dc680-e2af-40ab-8d19-eefe962720dc,marked.rocks,available,11.99,21.99,high,low
 b96be725-5bf7-46e3-ab82-3ed53c4c5fd0,ameer.rocks,available,7.98,29.98,medium,low,5,namecheap,,,18/09/2026 18:04
 2156269b-3134-4a74-8f90-b2a0b245a900,xlv.rocks,available,5.99,27.99,medium,low,3,name.com,,,
 0c245099-56d6-44c0-a429-07ac9ad5cb3f,ruffle.rocks,available,7.98,29.98,high,low,6,namecheap,,,11/09/2026 05:07
+450dfb1b-c587-48c2-99b6-a07e1c8a082c,mates.rocks,available,3.5,18.41,high,low,5,dynadot,,,28/09/2026 10:21
+5a685356-d8c1-4986-8e22-b8fbc85228fc,fulfill.rocks,available,11.99,21.99,high,low,7,namesilo,,,28/09/2026 15:34
 ada95671-311f-4375-9b45-ceaeccb360b4,grotesque.rocks,available,5.99,27.99,medium,low,9,name.com,,,
 6bb41bdd-dfdc-4c3b-ad61-c763c8d99399,undeniable.rocks,available,5.99,27.99,high,low,10,name.com,,,12/09/2026 07:15
 3ecd338d-7026-4052-a848-1ae65a6ebdbf,songful.rocks,available,5.99,27.99,high,low,7,name.com,,,11/08/2026 17:36
@@ -408,14 +444,18 @@ bda6be3f-2bf3-4f26-8434-428191eaeff8,shanny.rocks,available,11.99,21.99,medium,l
 5406c07a-810e-41bc-afa4-43a59a6393f9,claimed.rocks,available,17.2,17.2,medium,low,7,cloudflare,,,27/09/2026 23:56
 f98f0af1-3185-45f3-9694-e994475e52aa,parietal.rocks,available,7.98,29.98,medium,low,8,namecheap,,,08/09/2026 01:33
 9c3b72bb-ca1d-48a8-bf90-1a16b6774a82,gadolinium.rocks,available,11.99,21.99,medium,low,10,namesilo,,,20/09/2026 23:27
+7d535360-68b3-4051-be3b-8cee082e051f,realizes.rocks,available,11.99,21.99,medium,low,8,namesilo,,,29/09/2026 05:59
 83f3a4af-a067-42b8-8402-d43cb13f4c3a,filmed.rocks,available,5.99,27.99,high,low,6,name.com,,,18/08/2026 04:25
 c7e7560b-8c8b-4fd4-8673-7abac8d6eb3e,untreated.rocks,available,7.98,29.98,medium,low,9,namecheap,,,12/09/2026 21:44
 8ab35f32-8e2c-4c10-a185-f8ad5ba63afd,firstborn.rocks,available,5.99,27.99,high,low,9,name.com,,,16/08/2026 02:17
 06580ed8-48cf-4441-acf1-4bd9160f39b4,transferred.rocks,available,6.93,17.8,medium,low,11,spaceship,,,27/09/2026 22:38
 af26b38f-555a-42b3-920f-d648a05ed10a,friendship.rocks,available,12.99,,high,low,10,name.com,,,
+8d5743ac-572c-435d-840a-3d4e7431571c,breslau.rocks,available,17.2,17.2,medium,low,7,cloudflare,,,28/09/2026 18:29
 48888825-ba77-45df-a5a5-7586b90b5a9f,astrolabe.rocks,available,7.98,29.98,medium,low,9,namecheap,,,20/09/2026 17:43
 46d2064b-01f0-473e-a90e-83e1ff816007,humbug.rocks,available,11.99,21.99,medium,low,6,namesilo,,,21/09/2026 23:48
+a1574331-2f4b-4391-a1fd-5ad92207f14b,foreigners.rocks,available,17.2,17.2,low,low,10,cloudflare,,,28/09/2026 23:22
 4ddadd6d-20fa-4e3b-8bb0-1e91c67eb396,footballers.rocks,available,11.99,21.99,medium,low,11,namesilo,,,20/09/2026 13:07
+ff9d9cdf-d6dc-4360-9a1e-c4d985e29425,thelma.rocks,available,6.93,17.8,medium,low,6,spaceship,,,28/09/2026 21:54
 6008bd54-66f4-4e0e-b830-cf231274229d,beguiling.rocks,available,7.98,29.98,high,low,9,namecheap,,,22/09/2026 01:38
 89694021-f945-4aba-bc8c-061e13d28553,alcides.rocks,available,11.99,21.99,medium,low,7,namesilo,,,18/09/2026 04:05
 9799fa4b-9de0-43c4-80a8-25b00714eb17,chances.rocks,available,11.99,21.99,medium,low,7,namesilo,,,25/09/2026 16:56
@@ -425,8 +465,9 @@ aaa2b991-e796-473f-8f4f-27b8fe8efccb,alienator.rocks,available,11.99,21.99,mediu
 32665af3-c362-44e0-a83c-7d2bb69e09c2,projecting.rocks,available,5.99,27.99,high,low,10,name.com,,,22/08/2026 14:48
 c21099e4-12c3-4285-aa81-b343e636e634,bonny.rocks,available,5.99,27.99,medium,low,5,name.com,,,10/08/2026 18:45
 4c511c23-7d09-403b-9d84-5a25738395be,supplies.rocks,available,12.99,,medium,low,8,name.com,,,
+c4dae5db-3c2b-4afb-a37e-4fd9f7c779a6,reichstag.rocks,available,7.98,29.98,medium,low,9,namecheap,,,28/09/2026 16:30
 bbbd309c-7032-4235-97c3-1b7a421110ad,nominal.rocks,available,7.98,29.98,high,low,7,namecheap,,,03/09/2026 18:17
-443f68b5-f92d-4deb-a114-a250057961f2,beach.rocks,resell,,,high,low,5,Dynadot Inc,16/05/2026 17:00,16/05/2027 17:00,26/09/2026 04:18
+443f68b5-f92d-4deb-a114-a250057961f2,beach.rocks,resell,,,high,low,5,Dynadot Inc,16/05/2026 17:00,16/05/2027 17:00,29/09/2026 01:36
 ca4e73b6-9b17-4b90-8141-f5356d0ba4c5,inocor.rocks,available,11.99,21.99,medium,low,6,namesilo,,,18/09/2026 23:58
 ab6ecb7b-15d8-4101-afd5-5e2bdc562570,lunch.rocks,premium,38.94,38.94,high,low,5,namesilo,,,
 669d0387-ea21-4ff1-b412-3596d6a447fc,achromatic.rocks,available,5.99,27.99,medium,low,10,name.com,,,
@@ -462,6 +503,7 @@ c13e6907-df07-41b9-9e85-450c15a9d670,thousandth.rocks,available,5.99,27.99,high,
 8edaa63a-572a-4706-b206-927227db5333,changeling.rocks,available,5.99,27.99,medium,low,10,name.com,,,21/08/2026 20:30
 b2dce28e-a1f8-482b-a29b-8273d4a31eda,pellagra.rocks,available,11.99,21.99,medium,low,8,namesilo,,,18/09/2026 13:55
 4c610440-b919-49e5-9339-36870a2725ee,uncovering.rocks,available,11.99,21.99,medium,low,10,namesilo,,,22/09/2026 06:00
+b7a9170c-bf63-4f55-a09f-6768b97c14e3,orphanage.rocks,available,17.2,17.2,medium,low,9,cloudflare,,,28/09/2026 10:38
 4e0ed309-6a92-45d5-a78e-cd0b1634fbfe,hua.rocks,premium,118.8,118.8,high,low,3,namesilo,,,18/09/2026 01:18
 fa0d12be-9d9b-4704-912d-93c9c7a93960,intrigue.rocks,available,12.99,,high,low,8,name.com,,,
 02826ca5-1707-4563-99fe-722320bd705d,disquiet.rocks,available,11.99,21.99,medium,low,8,namesilo,,,24/09/2026 22:51
@@ -482,15 +524,16 @@ d8858154-de02-47fb-ab1f-c35069b7f2b6,variation.rocks,available,5.99,27.99,high,l
 8a11a578-7cb6-4aee-9489-11ebd0f1a826,ways.rocks,available,12.99,,high,low,4,name.com,,,
 bf5773fa-d2cc-48d1-a8b8-092c06d8ad5d,keys.rocks,available,12.99,,high,medium,4,name.com,,,
 fc39dbfc-5f2a-4a02-ad6a-8b5af9a6ac6d,galangal.rocks,available,11.99,21.99,medium,low,8,namesilo,,,18/09/2026 14:03
-202552f4-d3ca-4308-8804-5094246b40f3,quickness.rocks,available,12.99,,high,low,9,name.com,,,
+202552f4-d3ca-4308-8804-5094246b40f3,quickness.rocks,available,6.93,17.8,high,low,9,spaceship,,,28/09/2026 18:29
+87272ec1-986b-4f98-8402-c2d7e9a585ac,woodbridge.rocks,available,17.2,17.2,medium,low,10,cloudflare,,,28/09/2026 16:49
 29fceec1-ba57-4b06-9c27-0b84d8bdc580,susurrant.rocks,available,7.98,29.98,medium,low,9,namecheap,,,03/09/2026 11:08
 12bb2b5f-345a-465d-815d-d25fea584218,autocracy.rocks,available,11.99,21.99,medium,low,9,namesilo,,,21/09/2026 06:08
 2dd2458a-7493-43e9-b27a-31c50d87d27d,newborn.rocks,available,7.98,29.98,high,low,7,namecheap,,,03/09/2026 16:41
 52d01832-c4a7-4dcd-8943-ea048dc0415b,sterilization.rocks,available,7.98,29.98,high,low,13,namecheap,,,16/09/2026 21:54
 6de0a725-c29c-4049-8c47-a19fa6e01f46,assayer.rocks,available,11.99,21.99,medium,low,7,namesilo,,,20/09/2026 15:59
+2c9ab17f-9c88-46b4-96bb-deca5ef0473e,suzanne.rocks,available,7.98,29.98,medium,low,7,namecheap,,,28/09/2026 11:57
 84a14eb1-2d84-4646-a9b6-415b791aedaa,barnacle.rocks,available,11.99,21.99,medium,low,8,namesilo,,,22/09/2026 06:46
 d3956dae-74e6-4914-8192-590a92c06785,ambiguous.rocks,available,5.99,27.99,high,low,9,name.com,,,
-65c9387c-a549-40cc-879f-dd342408c9b8,invariably.rocks,available,12.99,,medium,low,10,name.com,,,
 0aa663a0-0f85-4585-a1b1-6828fe41ebac,clubable.rocks,available,5.99,27.99,medium,low,8,name.com,,,12/08/2026 12:57
 5a0ffbe8-408e-418a-a861-b7b115dbac50,dogwoods.rocks,available,11.99,21.99,medium,low,8,namesilo,,,20/09/2026 13:05
 fc39b19f-3da9-4c8c-b7d4-8b94bb163a19,qing.rocks,available,6.93,17.8,high,low,4,spaceship,,,27/09/2026 12:26
@@ -499,6 +542,7 @@ fc39b19f-3da9-4c8c-b7d4-8b94bb163a19,qing.rocks,available,6.93,17.8,high,low,4,s
 9e0c2146-b35c-42cd-8395-a15466a79e28,gruff.rocks,available,5.99,27.99,high,low,5,name.com,,,13/08/2026 11:25
 474f476b-2e13-4a34-8494-ff9fb0e4595b,grapey.rocks,available,5.99,27.99,medium,low,6,name.com,,,20/08/2026 18:06
 9204ccb3-4698-4ec3-8835-2c06b38823aa,swarthy.rocks,available,7.98,29.98,medium,low,7,namecheap,,,11/09/2026 05:25
+4f9c5d56-0c3c-4600-8d82-119abe0e055a,joliet.rocks,available,11.99,21.99,medium,low,6,namesilo,,,29/09/2026 01:26
 22ae9902-d23c-4722-aaa7-23e2e497f639,concentration.rocks,available,17.2,17.2,high,low,13,cloudflare,,,27/09/2026 21:44
 e140d812-8ec9-44a2-8930-1efd1f6b0f6b,animalia.rocks,available,7.98,29.98,medium,low,8,namecheap,,,19/09/2026 08:37
 5308789f-eda1-4c48-9310-dfcdee5f05a5,accuracy.rocks,available,7.98,29.98,high,low,8,namecheap,,,16/09/2026 23:21
@@ -529,7 +573,6 @@ f943937b-4366-4176-b528-1314c3ba0e72,silvervine.rocks,available,11.99,21.99,low,
 9b0892ec-2192-409f-a361-c9297d380a0d,junket.rocks,available,11.99,21.99,high,low,6,namesilo,,,22/09/2026 03:02
 a5f5b439-8bf1-437b-97ca-a38d30f283aa,flapjack.rocks,available,11.99,21.99,high,low,8,namesilo,,,22/09/2026 14:32
 89036b03-a8a9-4375-859a-fc4b4312b134,succinctly.rocks,available,11.99,21.99,medium,low,10,namesilo,,,16/09/2026 07:34
-2bb4f748-f827-485b-b11a-6eb5515f1684,deliver.rocks,available,,,high,low,7,,,,
 dd4e87a9-0d3d-467c-90c5-36cc6f563fa0,sworn.rocks,available,11.99,21.99,high,low,5,namesilo,,,27/09/2026 04:14
 db2714a6-79cc-49b9-8d6a-3c372908a4ab,decided.rocks,available,5.99,27.99,high,low,7,name.com,,,13/08/2026 21:20
 d6f63d03-af81-43b0-8858-d6be6a636935,banting.rocks,available,11.99,21.99,medium,low,7,namesilo,,,22/09/2026 03:15
@@ -543,6 +586,7 @@ e62cddd2-c2e6-40b2-8941-4d68871940be,emblazon.rocks,available,11.99,21.99,medium
 2ce07771-ecef-420d-a25c-1f08b821daad,aplomb.rocks,available,7.98,29.98,high,low,6,namecheap,,,19/09/2026 17:47
 9ce12ef3-b037-4eec-a685-04e8ea06efcd,filesize.rocks,available,12.99,,medium,low,9,name.com,,,
 5c6cc5b9-c63b-4fde-bb56-a625c310f6a2,ovine.rocks,available,5.99,27.99,medium,low,5,name.com,,,04/09/2026 22:07
+67e154be-bf06-40cf-9ff3-2ead112f1bcc,principality.rocks,available,11,,medium,low,12,unstoppable,,,28/09/2026 22:46
 def06ef2-6e11-47d5-99ee-aa1ee566d34f,emblem.rocks,available,3.5,18.41,high,low,6,dynadot,,,28/09/2026 02:43
 1319f27a-4872-418b-92c9-227918e4effb,reverently.rocks,available,7.98,29.98,medium,low,10,namecheap,,,15/09/2026 23:35
 ed1a014b-57c6-467b-952c-557bbc2225b3,prayers.rocks,available,11.99,21.99,high,low,7,namesilo,,,18/09/2026 03:21
@@ -559,8 +603,10 @@ d1b767e2-1bb3-457a-8c10-3a876f8f77de,rhetorical.rocks,available,7.98,29.98,high,
 adbc36d8-81e7-403c-b957-e88adf3ad5d4,penetration.rocks,available,7.98,29.98,medium,low,11,namecheap,,,08/09/2026 15:09
 c7e95330-83f5-47c9-98fd-ec261dbfc2e4,falsely.rocks,available,7.98,29.98,medium,low,7,namecheap,,,14/09/2026 17:35
 edc6d06f-455a-4a2e-a8f3-d22c4be9f247,officials.rocks,available,7.98,29.98,medium,low,9,namecheap,,,17/09/2026 12:28
+3cac378c-770c-4575-9135-6b81eca3f714,tuition.rocks,available,6.93,17.8,high,low,7,spaceship,,,28/09/2026 15:30
 65cd6f71-0db7-4974-86ca-0f66c0510ad9,competency.rocks,available,11.99,21.99,high,low,10,namesilo,,,24/09/2026 16:48
-553903c2-97d9-4918-9fda-be068d3c0400,bunch.rocks,available,12.99,,high,low,5,name.com,,,
+563faf1d-355c-466d-acac-f99d0798e218,sniper.rocks,resell,,,medium,low,6,,,,28/09/2026 15:22
+553903c2-97d9-4918-9fda-be068d3c0400,bunch.rocks,available,7.98,29.98,high,low,5,namecheap,,,29/09/2026 05:23
 6b575c4f-c189-4ff8-a27a-29d1a69c3360,adversary.rocks,available,11.99,21.99,high,low,9,namesilo,,,17/09/2026 10:44
 20b5136c-089f-4dd7-acf4-db7be8b7a5a2,diagonal.rocks,available,5.99,27.99,medium,low,8,name.com,,,07/08/2026 04:07
 7c264414-5bca-40f4-9a32-2307d3aa96b2,curvaceous.rocks,available,5.99,27.99,medium,low,10,name.com,,,10/08/2026 20:30
@@ -576,17 +622,19 @@ ef71eaa4-c5b0-437d-9cc4-4d53ee4b3e72,archduke.rocks,available,7.98,29.98,medium,
 91b81899-ab56-4223-ba3c-7cb40a31b39b,receives.rocks,available,11.99,21.99,medium,low,8,namesilo,,,18/09/2026 17:46
 5ca2c781-2006-4961-a02c-5847ac078a5a,unnatural.rocks,available,5.99,27.99,medium,low,9,name.com,,,
 2b511130-566f-427b-9562-8339a55a075e,foolish.rocks,available,11.99,21.99,high,low,7,namesilo,,,24/09/2026 11:44
+052e4720-7a38-4c3f-8547-e9b7d1769f26,whistling.rocks,available,17.2,17.2,high,low,9,cloudflare,,,28/09/2026 20:47
 e2b164e3-6374-46c0-a49d-0ddaa2e6ca03,sectioned.rocks,available,7.98,29.98,medium,low,9,namecheap,,,10/09/2026 01:20
 5c46c800-98b1-4401-afb8-fc6cf7d434b6,shares.rocks,available,12.99,,high,low,6,name.com,,,
 940b69b6-2802-47e0-a972-094a71e8f684,spry.rocks,available,5.99,27.99,high,low,4,name.com,,,
 e0547b8c-d24d-486f-ae31-d59de2692241,carambola.rocks,available,7.98,29.98,medium,low,9,namecheap,,,21/09/2026 09:14
-277f8d33-35c0-4aad-af14-102ebae76c9a,definitely.rocks,available,12.99,,high,low,10,name.com,,,
 969d7dab-c347-4791-9725-5fcec8b6cdca,overdress.rocks,available,11.99,21.99,high,low,9,namesilo,,,21/09/2026 01:53
 345fefce-a4a2-445c-ac55-a75517e261c7,alee.rocks,available,7.98,29.98,low,low,4,namecheap,,,13/09/2026 18:38
 45125034-da82-4822-b1e8-8a041ac08a5a,aeronaut.rocks,available,11.99,21.99,high,low,8,namesilo,,,17/09/2026 13:09
 8f1cd1b0-5c8d-4604-8712-5ab7c0718a94,screeching.rocks,available,7.98,29.98,medium,low,10,namecheap,,,09/09/2026 23:59
 d481a90b-09f4-401f-af83-748aa5227e90,laureate.rocks,available,5.99,27.99,high,low,8,name.com,,,22/08/2026 20:57
 3196eb25-b8fc-4e5b-832a-33ee35ed5aed,bosses.rocks,available,11.99,21.99,medium,low,6,namesilo,,,18/09/2026 05:55
+79da574d-540b-4846-9368-f6bb3b076cbb,omaha.rocks,premium,,,high,low,5,,,,28/09/2026 14:49
+8aa20c2a-2733-46e0-833b-ed60cce098f5,fte.rocks,available,7.98,29.98,high,low,3,namecheap,,,29/09/2026 03:33
 8b1b6e49-da1d-4f5c-b765-d0e55a602f12,cappuccino.rocks,available,12.99,,high,low,10,name.com,,,
 315905aa-3e06-470e-8792-466e2cd1e895,sequel.rocks,available,12.99,,high,low,6,name.com,,,
 092dac6b-d527-42e7-ac9b-ea3303a75c3a,aurorean.rocks,available,5.99,27.99,medium,low,8,name.com,,,07/08/2026 18:12
@@ -618,6 +666,8 @@ b20624a3-3a87-42e1-b887-d947c80da702,bronzy.rocks,available,5.99,27.99,medium,lo
 e67b2453-026e-404a-a7f0-a16d6fb075ba,roomy.rocks,available,6.93,17.8,high,low,5,spaceship,,,27/09/2026 16:14
 cdfd0719-5481-40d9-9154-21ed8940a9f3,coptic.rocks,available,5.99,27.99,high,low,6,name.com,,,13/08/2026 00:36
 2e5fd0f1-853d-4aac-86b5-b051b4c7885d,barbet.rocks,available,11.99,21.99,medium,low,6,namesilo,,,22/09/2026 04:53
+8e3fafb7-7e1d-4bc3-aab5-4b16cf54dd2b,tess.rocks,available,11.99,21.99,medium,low,4,namesilo,,,28/09/2026 21:56
+b9bb568b-060b-45df-8c6c-29f8a38af625,stimulate.rocks,available,11,,high,low,9,unstoppable,,,29/09/2026 02:44
 d18450a1-3b2a-42e0-9c35-28aa7e067c30,reserved.rocks,available,7.98,29.98,high,low,8,namecheap,,,09/09/2026 14:50
 58eb34f5-fc16-4c1c-95fa-208d8f824f0c,westward.rocks,available,5.99,27.99,medium,low,8,name.com,,,13/09/2026 10:55
 2b4b02df-97bc-495a-8cb3-18049b7c98fd,bewilder.rocks,available,11.99,21.99,high,low,8,namesilo,,,21/09/2026 17:30
@@ -626,6 +676,8 @@ d18450a1-3b2a-42e0-9c35-28aa7e067c30,reserved.rocks,available,7.98,29.98,high,lo
 abd45705-d8e0-42ee-844f-708975fdd393,shortfall.rocks,available,12.99,,medium,low,9,name.com,,,
 46db9836-5c66-4cf0-b7d5-61dc99c4759c,returned.rocks,available,12.99,,high,low,8,name.com,,,
 35529e7a-5869-41ac-8bb3-7ee0d74f1b66,bellicose.rocks,available,5.99,27.99,low,low,9,name.com,,,09/08/2026 01:44
+e933a655-11de-41a4-b067-8d86e5a7195d,della.rocks,available,11.99,21.99,medium,low,5,namesilo,,,29/09/2026 04:03
+10e4a056-11ec-4a32-9a5b-1977cfda6107,winifred.rocks,available,6.93,17.8,medium,low,8,spaceship,,,28/09/2026 21:52
 52bf6628-d443-4eac-b330-18cd79484958,unbent.rocks,available,7.98,29.98,medium,low,6,namecheap,,,12/09/2026 01:50
 8c2ade52-8d60-476c-bc59-ee57dbc735be,chemical.rocks,available,7.98,29.98,high,low,8,namecheap,,,08/09/2026 15:30
 b2dbff58-1a98-4806-8c17-913a74f59e19,quintuple.rocks,available,5.99,27.99,medium,low,9,name.com,,,18/08/2026 05:54
@@ -638,22 +690,27 @@ b8841b63-8f11-4673-bbf0-cc43c83a2a7b,ridiculous.rocks,available,11.99,21.99,high
 c7f87c31-9840-46f2-b548-08237219223d,provided.rocks,available,11.99,21.99,medium,low,8,namesilo,,,16/09/2026 09:17
 05efbabd-634b-4d34-a4f3-df3eb3f5e55d,unanswered.rocks,available,7.98,29.98,medium,low,10,namecheap,,,12/09/2026 00:43
 2169571b-6fc2-4c9f-90cc-2ef932d5d470,barbuda.rocks,premium,78.54,78.54,medium,low,7,namesilo,,,22/09/2026 05:04
+7a9a13a0-b1ed-434f-b385-f6830890b53d,renaissance.rocks,available,11.99,21.99,high,low,11,namesilo,,,29/09/2026 02:57
 9d246a25-484e-4694-9c0f-bd107e8d600b,patrician.rocks,available,5.99,27.99,medium,low,9,name.com,,,06/08/2026 19:34
 eaeb29ca-21e1-4664-9130-da4be48a2549,granddad.rocks,available,12.99,,high,low,8,name.com,,,
+c9afb485-ac16-4349-941b-29897e28b802,morals.rocks,available,11,,high,low,6,unstoppable,,,28/09/2026 14:04
+14be7ed3-9db0-4cf6-8d5b-fe3d60ada876,manufacture.rocks,available,11,,high,low,11,unstoppable,,,28/09/2026 21:00
 89420ac1-0fc9-4f93-8565-9eda08673f90,avicenna.rocks,available,11.99,21.99,high,low,8,namesilo,,,16/09/2026 18:41
 f2adf2bf-4fea-43f2-ad67-dff34cf684dc,brand.rocks,resell,,,high,medium,5,"Sav.com, LLC",12/07/2019 14:46,12/07/2027 14:46,28/09/2026 09:07
 c4fb6c80-ce91-4f4a-a5eb-05e9d66739f3,alms.rocks,available,11.99,21.99,medium,low,4,namesilo,,,18/09/2026 12:43
 798d8f9f-0885-420a-8028-0cb93c498a4b,irksome.rocks,available,5.99,27.99,medium,low,7,name.com,,,10/08/2026 20:01
 8b6928f5-dd86-48d6-b9a7-5e609850c406,scabby.rocks,available,7.98,29.98,medium,low,6,namecheap,,,09/09/2026 22:13
 56723950-3753-48aa-97ed-d6365b869f64,croat.rocks,available,5.99,27.99,high,low,5,name.com,,,13/08/2026 07:34
+f241b2c8-b9da-4456-b0a9-a924df395b6e,ronald.rocks,available,11,,medium,low,6,unstoppable,,,28/09/2026 11:51
 2f217d91-574b-4697-9e4c-a89b276bf1e5,hermetic.rocks,available,5.99,27.99,medium,low,8,name.com,,,21/08/2026 07:10
-51c68cea-a21d-4b1b-a840-dbac6a1809a1,paul.rocks,resell,,,high,medium,4,Dynadot Inc,26/06/2026 08:30,26/06/2027 08:30,26/09/2026 08:04
+51c68cea-a21d-4b1b-a840-dbac6a1809a1,paul.rocks,resell,,,high,medium,4,Dynadot Inc,26/06/2026 08:30,26/06/2027 08:30,28/09/2026 20:25
 929e671b-c443-4011-87cc-a2872551db81,choking.rocks,available,11.99,21.99,medium,low,7,namesilo,,,24/09/2026 14:44
 22e78f74-e4fa-496f-aed0-acbb1addbd1d,hapless.rocks,available,5.99,27.99,medium,low,7,name.com,,,20/08/2026 23:48
 a8b5e55a-fb11-4f98-b068-a38a222cc4a9,ductless.rocks,available,5.99,27.99,medium,low,8,name.com,,,14/08/2026 20:54
-9ddaf129-0f89-4b25-bdef-df56d5f70aab,wakening.rocks,available,12.99,,high,low,8,name.com,,,
+9ddaf129-0f89-4b25-bdef-df56d5f70aab,wakening.rocks,available,6.93,17.8,high,low,8,spaceship,,,28/09/2026 23:37
 77a12b8d-a92e-4e18-80c5-1789598b7a98,reggie.rocks,available,11.99,21.99,high,low,6,namesilo,,,28/09/2026 07:45
 ff74bcdc-2581-4384-9554-d1c62bafd5f4,breakable.rocks,available,5.99,27.99,medium,low,9,name.com,,,11/08/2026 02:59
+ec00ec73-b9e0-4eab-a72c-af5c7d5d00a4,gauge.rocks,available,11,,high,low,5,unstoppable,,,29/09/2026 00:50
 5cc66769-c4e5-4ada-b386-e966dfaa84c1,narrowly.rocks,available,5.99,27.99,medium,low,8,name.com,,,15/09/2026 16:08
 1f3a1e32-7a1c-40c5-ae9c-b692d558169d,suggestion.rocks,available,11.99,21.99,high,low,10,namesilo,,,25/09/2026 07:41
 71ca8b6c-bae4-4994-ad38-0b777bc09c4c,grandmother.rocks,available,12.99,,high,low,11,name.com,,,
@@ -662,6 +719,7 @@ e0bac820-0e3b-43d8-bc5a-0753277fbd14,timorese.rocks,available,7.98,29.98,medium,
 df37e6a1-ad8c-4d41-bb72-4bec5d7ecb3c,veined.rocks,available,7.98,29.98,medium,low,6,namecheap,,,13/09/2026 01:53
 50cb2843-349b-44ff-ba46-c5db213f1175,penal.rocks,available,7.98,29.98,medium,low,5,namecheap,,,08/09/2026 13:51
 ee4985cc-8512-487a-a4e8-47edf330a399,healthcare.rocks,resell,,,high,low,10,"Global Domains International, Inc. DBA DomainCostClub.com",28/02/2026 15:15,28/02/2027 15:15,28/09/2026 03:04
+aa047fe9-c5d6-4821-8a23-2da82673f154,diver.rocks,available,11.99,21.99,high,low,5,namesilo,,,29/09/2026 00:40
 5001e39e-be1f-442a-8231-2259f0fb56f5,baffle.rocks,available,7.98,29.98,medium,low,6,namecheap,,,09/09/2026 08:20
 6b4114fd-67de-401b-bb21-44e3691f81f1,sleeping.rocks,resell,,,high,low,8,"GoDaddy.com, LLC",06/08/2014 18:57,06/08/2027 18:57,27/09/2026 22:26
 fd108cf5-89f0-406c-a68c-6437d5db8f8b,beckett.rocks,available,11.99,21.99,high,low,7,namesilo,,,22/09/2026 22:39
@@ -679,6 +737,7 @@ c3588149-6780-4993-b143-0280c8c9cc1a,hugh.rocks,available,3.5,18.41,high,low,4,d
 4deb84d4-57d0-4642-b1d6-e6fb63264a08,adjuster.rocks,available,11.99,21.99,high,low,8,namesilo,,,17/09/2026 08:32
 ec973d3a-a042-4907-b76a-3c06f4f8c07a,devoutly.rocks,available,7.98,29.98,medium,low,8,namecheap,,,14/09/2026 12:30
 cfcbe5bc-e60f-4083-bdf6-3b6eefffe7a0,impression.rocks,available,12.99,,high,low,10,name.com,,,
+732fe085-5934-4c98-b818-d6598599f659,violating.rocks,available,6.93,17.8,low,low,9,spaceship,,,29/09/2026 05:13
 8c2663bc-838d-4bda-b03b-06304169bbd2,revolved.rocks,available,11.99,21.99,medium,low,8,namesilo,,,27/09/2026 14:41
 10c4dc09-8fa6-45f5-9dea-5e23465c33fa,blinding.rocks,available,5.99,27.99,medium,low,8,name.com,,,10/08/2026 13:42
 f2138c1f-25ca-4d55-9645-36292aa8de92,mansion.rocks,resell,,,high,low,7,,,,28/09/2026 06:20
@@ -696,7 +755,9 @@ d859a350-7ea6-4342-aed4-4ff55cd0b3f3,diluted.rocks,available,5.99,27.99,medium,l
 3553a775-661e-4ad4-8e79-dfc75b798fbc,lavoisier.rocks,available,11.99,21.99,medium,low,9,namesilo,,,19/09/2026 15:25
 aeecadc2-7310-4f40-9dd7-1c1787b07b62,adriatic.rocks,available,11.99,21.99,high,low,8,namesilo,,,17/09/2026 10:03
 77b38f95-d106-405a-9ea2-33716a1c6a48,affectionate.rocks,available,12.99,,high,low,12,name.com,,,
+9ba07024-3939-4d7b-9554-8b6b6bc7e8d2,josephine.rocks,available,11.99,21.99,high,low,9,namesilo,,,28/09/2026 12:04
 5f0d4d31-2dc6-4e8b-bcf8-29bd61a86f82,hai.rocks,available,11.99,21.99,high,low,3,namesilo,,,27/09/2026 16:50
+c955e6ab-9370-42d0-87d7-14ea0a8610d9,pritchard.rocks,available,11.99,21.99,medium,low,9,namesilo,,,28/09/2026 12:14
 8162ff5b-9495-491f-b44c-9daef310f2e7,destructive.rocks,available,12.99,,medium,low,11,name.com,,,
 b5821c31-3560-4147-ba3e-25d6f0f7a664,noncurrent.rocks,available,7.98,29.98,medium,low,10,namecheap,,,03/09/2026 19:01
 29700055-e285-4c28-9b28-93126ef52638,reviewers.rocks,available,11.99,21.99,medium,low,9,namesilo,,,21/09/2026 09:06
@@ -713,6 +774,8 @@ dd948551-1afc-4617-84fd-e15a3f0c5295,conviction.rocks,available,7.98,29.98,high,
 4fbcf240-9e77-4675-a96a-39848e838f31,swinging.rocks,available,5.99,27.99,high,low,8,name.com,,,23/08/2026 08:43
 f7dbc694-9445-4609-9ce5-a28fc070a82a,wingless.rocks,available,5.99,27.99,medium,low,8,name.com,,,13/09/2026 12:31
 168a0e6d-18cd-43b3-b313-c7e48b4659bd,quantal.rocks,available,7.98,29.98,medium,low,7,namecheap,,,09/09/2026 07:28
+6e67cc00-ea92-4997-ad2e-52f2f0b20076,shovel.rocks,available,11,,high,low,6,unstoppable,,,28/09/2026 15:04
+033448c2-4371-46dc-809b-a7a16f032ebf,tens.rocks,available,3.5,18.41,medium,low,4,dynadot,,,29/09/2026 03:02
 009f3a32-d69c-4e5c-a5d1-40beb690e27a,leger.rocks,available,11.99,21.99,medium,low,5,namesilo,,,16/09/2026 23:07
 2d8890d5-b7cf-4305-a487-a7e95ce19953,poisoned.rocks,available,11.99,21.99,medium,low,8,namesilo,,,27/09/2026 17:38
 d4a94d4b-3880-4adf-a69d-b9f50b6bcd35,mecca.rocks,premium,123.75,,high,low,5,name.com,,,
@@ -729,6 +792,7 @@ ca4e135a-edd6-4e76-8f32-402e7f2180ca,boiling.rocks,available,7.98,29.98,high,low
 014f6578-f0ec-43ac-bf88-46066a111568,sodomy.rocks,available,5.99,27.99,medium,low,6,name.com,,,19/09/2026 01:34
 b132bfae-e116-4b87-9ed2-b2b97361e4b6,squat.rocks,available,11.99,21.99,high,low,5,namesilo,,,25/09/2026 15:16
 2bd7e99a-a54d-40ee-bf1c-f287b9bf8d61,balboa.rocks,available,7.98,29.98,medium,low,6,namecheap,,,21/09/2026 21:24
+76e285dc-df9e-40c1-8295-65508c44cf8a,uphold.rocks,available,17.2,17.2,high,low,6,cloudflare,,,28/09/2026 20:14
 ff387ecc-755b-47f9-a5a3-ad47575c6da7,arrives.rocks,available,7.98,29.98,medium,low,7,namecheap,,,20/09/2026 01:05
 f0c267a0-6e89-40d2-ac48-ef4f4d67e311,inflowing.rocks,available,5.99,27.99,medium,low,9,name.com,,,22/08/2026 04:34
 6728b4a3-4856-4506-8971-d9634217f68a,heads.rocks,available,12.99,,high,low,5,name.com,,,
@@ -743,7 +807,9 @@ bb7a000d-921d-4808-b3e5-7e3a71eb98f7,blithely.rocks,available,7.98,29.98,medium,
 f42c839f-aad8-4a33-a433-16de03ff569a,stained.rocks,available,7.98,29.98,medium,low,7,namecheap,,,10/09/2026 18:14
 3a57daf5-c2fa-4fa9-874b-ff51f839c19d,jib.rocks,available,11.99,21.99,high,low,3,namesilo,,,21/09/2026 22:10
 2f8e308c-6a77-4ddc-90eb-49e4d7b999ab,idly.rocks,available,7.98,29.98,medium,low,4,namecheap,,,15/09/2026 01:38
-199f8e8e-29a6-4f9d-9f6f-d867b708ab5d,come.rocks,available,12.99,,high,low,4,name.com,,,
+749bac60-280e-4f48-9632-926d62e2690e,consequence.rocks,available,3.5,18.41,high,low,11,dynadot,,,28/09/2026 15:40
+d5bc23e0-13ef-47d3-a4e5-e4471491ff22,dinners.rocks,available,6.93,17.8,medium,low,7,spaceship,,,29/09/2026 05:41
+199f8e8e-29a6-4f9d-9f6f-d867b708ab5d,come.rocks,available,6.93,17.8,high,low,4,spaceship,,,28/09/2026 09:23
 6c696964-0d2c-488a-baa3-3bd901519b87,tongues.rocks,available,11.99,21.99,medium,low,7,namesilo,,,18/09/2026 07:52
 5c6e8fc9-ccac-4401-b2a4-74c05dd38cdf,uncanny.rocks,available,5.99,27.99,high,low,7,name.com,,,16/08/2026 02:23
 fd54252b-d3a5-4ae9-946e-cc76c0c0ea3d,barbecuing.rocks,available,11.99,21.99,high,low,10,namesilo,,,22/09/2026 04:46
@@ -758,7 +824,7 @@ ad4a3dc3-2c37-4343-af35-9dc215456a29,fiddling.rocks,available,5.99,27.99,medium,
 5d9b649c-fd14-4809-ab39-88a49336c298,crooner.rocks,available,7.98,29.98,high,low,7,namecheap,,,21/09/2026 22:42
 417f70fd-5a51-4346-9889-2284319e71bd,yucky.rocks,available,5.99,27.99,medium,low,5,name.com,,,14/08/2026 10:51
 a790b62e-b6a3-4f26-9cb0-d28327d9405f,guarded.rocks,available,5.99,27.99,high,low,7,name.com,,,20/08/2026 20:41
-3d120d2b-9cf6-4792-b531-70c4e27260d0,boxers.rocks,available,12.99,,high,low,6,name.com,,,
+3d120d2b-9cf6-4792-b531-70c4e27260d0,boxers.rocks,available,6.93,17.8,high,low,6,spaceship,,,29/09/2026 03:50
 38c42187-a9f8-4a05-a350-a18f48a4e8b0,applicator.rocks,available,11.99,21.99,medium,low,10,namesilo,,,19/09/2026 21:55
 2e3410a6-df0b-4a64-97fd-6c7c96da431e,buds.rocks,available,5.99,27.99,medium,low,4,name.com,,,20/09/2026 03:42
 e928b11d-2313-4724-867d-1b70cf669f78,adoptable.rocks,available,5.99,27.99,high,low,9,name.com,,,
@@ -772,21 +838,23 @@ c7663cb3-2dc2-4d37-9cf4-a6f2096ca4e1,cathedra.rocks,available,11.99,21.99,medium
 a2056047-a30f-4d07-adcf-1cf8bf00d3bd,thermic.rocks,available,5.99,27.99,medium,low,7,name.com,,,11/08/2026 15:05
 998b2efe-f8e1-49de-be69-687f60ce6460,genially.rocks,available,7.98,29.98,medium,low,8,namecheap,,,13/09/2026 17:52
 128a3136-98d6-44fd-85c6-0c6950d7ad2b,rome.rocks,premium,854,854,high,low,4,namesilo,,,25/09/2026 03:56
+b68e5dcf-0361-48c7-bfaa-72945fa4b4b4,premises.rocks,available,7.98,29.98,medium,low,8,namecheap,,,28/09/2026 15:06
 054cfb55-b1b1-4ae4-a234-b9351f751129,murderer.rocks,available,11.99,21.99,medium,low,8,namesilo,,,25/09/2026 08:59
 2dbb633e-4cf3-43af-acd0-44f1c5bc9cde,envious.rocks,available,11.99,21.99,medium,low,7,namesilo,,,24/09/2026 01:02
 f2f8a4dc-c9c3-450c-ad6a-c730c9b9763e,returns.rocks,available,11.99,21.99,high,low,7,namesilo,,,17/09/2026 17:19
 d79c7339-89ae-4f03-8278-7dc4d80004a0,provision.rocks,available,12.99,,high,low,9,name.com,,,
 c2647b7e-64af-4fae-978c-f3ea34907cff,recommended.rocks,available,11.99,21.99,medium,low,11,namesilo,,,28/09/2026 08:36
+12a6a0e1-e41d-4e22-8173-4c3b7e8078aa,beverley.rocks,available,11.99,21.99,medium,low,8,namesilo,,,29/09/2026 00:09
 7fa968ef-ac03-4d12-a66b-88d52599f6e9,heilong.rocks,available,11.99,21.99,medium,low,7,namesilo,,,19/09/2026 00:15
 751a59a2-8c7c-4a0c-8557-b51580a6d6da,agee.rocks,available,11.99,21.99,medium,low,4,namesilo,,,17/09/2026 16:52
 33f7e4f8-9c74-425e-ac00-f130bf19dc24,larboard.rocks,available,5.99,27.99,medium,low,8,name.com,,,22/08/2026 19:51
 b95585bc-bdc9-4be0-82a2-9b33c3f98073,dogging.rocks,available,5.99,27.99,medium,low,7,name.com,,,14/08/2026 15:03
-9d173032-7a26-4035-a007-fd4ce30a598a,britain.rocks,premium,123.75,,high,low,7,name.com,,,
+9d173032-7a26-4035-a007-fd4ce30a598a,britain.rocks,premium,108.9,108.9,high,low,7,dynadot,,,29/09/2026 04:23
 ad20e757-1938-4dbc-a1ba-8bbf9aa54369,lillie.rocks,available,11.99,21.99,high,low,6,namesilo,,,22/09/2026 21:47
 b1f31a90-d7aa-4584-9dc2-63ca8f04b1e0,arrests.rocks,available,7.98,29.98,medium,low,7,namecheap,,,20/09/2026 19:12
 e755bc4a-17b8-4688-bac1-06b61e9a4e2d,yellow.rocks,available,11.99,21.99,high,medium,6,namesilo,,,23/09/2026 14:15
 c1d4a4a4-b1cd-4f45-8576-0d862df34118,resentment.rocks,available,11.99,21.99,medium,low,10,namesilo,,,23/09/2026 23:03
-e4671148-0b53-476a-b18f-1d18c9379d03,wallet.rocks,resell,,,high,medium,6,"NameSilo, LLC",05/05/2020 05:47,05/05/2027 05:47,26/09/2026 10:03
+e4671148-0b53-476a-b18f-1d18c9379d03,wallet.rocks,resell,,,high,medium,6,"NameSilo, LLC",05/05/2020 05:47,05/05/2027 05:47,29/09/2026 02:45
 19ae9856-9c89-4308-a04a-69cfcc074568,probing.rocks,available,5.99,27.99,high,low,7,name.com,,,22/08/2026 06:21
 e15839c6-2a82-4b0f-b9c5-1a5ee21b9ac2,prc.rocks,premium,128.7,128.7,high,low,3,namecheap,,,25/09/2026 22:08
 8f5f8b79-1f51-4444-bbca-a58544642a1b,mannerism.rocks,available,11.99,21.99,high,low,9,namesilo,,,17/09/2026 14:14
@@ -799,21 +867,26 @@ abcf10b6-8066-4db3-93f1-82eafcc6b6e1,magically.rocks,available,7.98,29.98,high,l
 0e713865-3cbd-4335-aa7d-bee787e2f64d,ringing.rocks,available,5.99,27.99,high,low,7,name.com,,,27/09/2026 05:00
 b8fcf2b4-1991-4ab0-86a8-7d872ddfff08,stacy.rocks,available,7.98,29.98,high,low,5,namecheap,,,28/09/2026 07:44
 070548f4-6244-4da2-a478-f18b27f47ab6,results.rocks,available,7.98,29.98,medium,low,7,namecheap,,,
+15cd23f7-fed4-4ec2-876d-5aff28f2627f,complications.rocks,available,6.93,17.8,low,low,13,spaceship,,,28/09/2026 13:25
 75b6a844-fffa-4cf0-a761-306403c3a3f2,perceived.rocks,available,11.99,21.99,high,low,9,namesilo,,,27/09/2026 03:28
 81f41902-b479-47ad-baa9-a880f2a2eaa6,holman.rocks,available,17.2,17.2,high,low,6,cloudflare,,,28/09/2026 04:15
 768b415e-99ea-462a-b8a5-4cd5c9eed2f8,braced.rocks,available,5.99,27.99,medium,low,6,name.com,,,11/08/2026 00:17
 1d4c0b7f-90b2-464e-a1f1-5ce958344905,sporty.rocks,available,7.98,29.98,high,low,6,namecheap,,,10/09/2026 16:35
 ada47302-6add-476e-8917-a0462157ce48,depending.rocks,available,6.93,17.8,medium,low,9,spaceship,,,27/09/2026 22:26
+b111e7a7-8870-41aa-9004-e44eb34fa622,commandery.rocks,available,11.99,21.99,medium,low,10,namesilo,,,29/09/2026 00:27
 12109d34-c6db-4867-982b-541d19c29659,axonal.rocks,available,5.99,27.99,medium,low,6,name.com,,,08/08/2026 02:01
 4a953dce-d9e2-4004-862b-b669182b2b4a,visualized.rocks,available,11.99,21.99,high,low,10,namesilo,,,24/09/2026 14:20
+5d34741f-6a52-4d15-8397-f78a32446c9f,hutchins.rocks,available,7.98,29.98,medium,low,8,namecheap,,,28/09/2026 19:28
 a78c9a81-4bd1-435e-8532-8232e2d3525d,triennial.rocks,available,7.98,29.98,medium,low,9,namecheap,,,11/09/2026 19:31
 08af391b-43f9-4267-8efb-7fa13bfa612d,filets.rocks,available,7.98,29.98,medium,low,6,namecheap,,,20/09/2026 11:33
 e9ffb63e-8218-4253-a8f6-f9cb191f47b4,lewdly.rocks,available,7.98,29.98,low,low,6,namecheap,,,15/09/2026 11:12
 d6628e10-60bc-4845-b271-a215ff5b3557,gelid.rocks,available,5.99,27.99,medium,low,5,name.com,,,18/08/2026 21:05
+b4ec624e-dd69-4bce-a7c4-1cc29e8ca0a4,wehrmacht.rocks,available,6.93,17.8,medium,low,9,spaceship,,,28/09/2026 16:22
 23aec1e5-4541-4ba9-b62d-93e302862b23,flags.rocks,available,,,high,low,5,,,,
 981c2769-1e17-4367-835b-ae6800c806d4,knee.rocks,available,11.99,21.99,high,low,4,namesilo,,,20/09/2026 11:27
 90d38883-8e22-476f-8d93-2c6b4578e896,inhouse.rocks,available,12.99,,high,low,8,name.com,,,
 7cb52cb8-cd0e-42f8-bf30-d8d1291523c3,brotherly.rocks,available,5.99,27.99,high,low,9,name.com,,,11/08/2026 06:18
+2fa36beb-a86a-4989-bf77-f542dc0f099d,luftwaffe.rocks,available,6.93,17.8,medium,low,9,spaceship,,,28/09/2026 09:53
 27275d12-1a0f-4c35-baa7-0447779ec387,legally.rocks,available,5.99,27.99,medium,low,7,name.com,,,13/08/2026 19:07
 0f7dca59-abe7-492a-b3ed-2a1eba94aa11,majuscule.rocks,available,5.99,27.99,medium,low,9,name.com,,,24/08/2026 13:26
 cf79575b-82ac-4647-bd2b-22f61cdb5802,merchants.rocks,available,11.99,21.99,medium,low,9,namesilo,,,18/09/2026 04:36
@@ -837,11 +910,13 @@ f11ea992-e4c8-4cb0-b603-5010b435e236,crook.rocks,available,5.99,27.99,medium,low
 f417f953-39b1-4e8d-bb2f-bc44c34b0aad,offense.rocks,available,7.98,29.98,high,low,7,namecheap,,,04/09/2026 01:32
 6b9a6175-f174-4a63-b895-a6a1b77c002b,mendicant.rocks,available,5.99,27.99,medium,low,9,name.com,,,24/08/2026 20:08
 6475b19d-9821-4fcd-b4df-431a8db4aa85,lab.rocks,resell,,,high,medium,3,Dynadot Inc,06/08/2014 17:00,06/08/2027 17:00,26/09/2026 07:07
+3762c2bc-64ff-4cfe-88bc-1c2c42648600,rewarded.rocks,available,11.99,21.99,medium,low,8,namesilo,,,28/09/2026 23:21
 c5794a2f-5641-43e1-be12-c2f3ee3940e3,whalebone.rocks,available,11.99,21.99,medium,low,9,namesilo,,,21/09/2026 21:50
 c1cee462-1259-438e-91f0-4e2fdf4717d8,girard.rocks,available,6.93,17.8,high,low,6,spaceship,,,28/09/2026 05:50
 7fdccdee-3e1e-4db8-bcd5-f16a47530d1d,dastardly.rocks,available,5.99,27.99,medium,low,9,name.com,,,13/08/2026 18:31
 022254c7-237e-4589-901b-2e8c7a3b517a,ashram.rocks,available,11.99,21.99,medium,low,6,namesilo,,,20/09/2026 13:58
 bb6b7093-c3dd-419f-985b-f1c73776b514,arctangent.rocks,available,11.99,21.99,medium,low,10,namesilo,,,20/09/2026 01:30
+26a31768-15eb-4faa-8bac-7311448381d4,groningen.rocks,available,11.99,21.99,medium,low,9,namesilo,,,29/09/2026 03:44
 22f730c6-349e-46b9-b3d6-d591fd46e604,bargee.rocks,available,11.99,21.99,medium,low,6,namesilo,,,22/09/2026 05:47
 33a9f0a3-702a-40d1-8ae4-0504614f88d5,daydreams.rocks,available,7.98,29.98,medium,low,9,namecheap,,,19/09/2026 21:17
 51795274-9f5b-40e3-8ccd-ff2d8c107beb,changeless.rocks,available,5.99,27.99,medium,low,10,name.com,,,12/08/2026 01:58
@@ -868,6 +943,7 @@ c71c136f-2c57-4a29-885e-087f810b0b06,variably.rocks,available,11.99,21.99,medium
 c70b334b-f111-40c7-8b73-7a73b296c2a9,disgrace.rocks,available,12.99,,high,low,8,name.com,,,
 cd382d27-b41d-4fa4-afa3-650dfd832ff6,bacterial.rocks,available,7.98,29.98,high,low,9,namecheap,,,22/09/2026 16:00
 a40c2b5f-b4dd-4be5-a12b-0986070c3a06,uncrowded.rocks,available,7.98,29.98,medium,low,9,namecheap,,,12/09/2026 06:35
+06322d8c-ce4d-44d7-8358-e6d6d0751cfa,graduating.rocks,available,7.98,29.98,low,low,10,namecheap,,,28/09/2026 12:36
 6362ee47-df48-4071-b4dd-65383e1acecb,despicable.rocks,available,5.99,27.99,medium,low,10,name.com,,,14/08/2026 04:00
 9c9a0afd-5f13-4b21-98a2-4c46e691c3a1,stingless.rocks,available,7.98,29.98,medium,low,9,namecheap,,,10/09/2026 20:48
 739ce446-15c1-42e3-9058-d7d39d7cf209,synoptic.rocks,available,5.99,27.99,high,low,8,name.com,,,11/09/2026 06:33
@@ -886,6 +962,7 @@ be5081b0-2a97-4108-a8fa-4561e56582fe,contented.rocks,available,11.99,21.99,high,
 acfcc8b3-4cbc-4edb-81dd-7e239cfdc930,radius.rocks,available,6.93,17.8,high,low,6,spaceship,,,28/09/2026 03:00
 b16f4d81-076c-4288-a44c-99101e3e5045,ebay.rocks,available,,,high,high,4,,,,
 b7bd0b56-1661-4e76-929c-4157a3cd3205,yur.rocks,available,12.99,,medium,low,3,name.com,,,
+40a89390-089c-40df-8e28-9169679316ab,exercises.rocks,available,6.93,17.8,medium,low,9,spaceship,,,28/09/2026 17:18
 9704b849-5132-4e13-adb1-da2b5e956e7e,outflank.rocks,available,5.99,27.99,medium,low,8,name.com,,,09/08/2026 17:48
 8d18ea1d-256b-4785-a33a-b3a24afdb4ee,aiglet.rocks,available,7.98,29.98,medium,low,6,namecheap,,,17/09/2026 18:23
 80f3e214-a737-4407-906f-5f047937ae00,fussy.rocks,available,5.99,27.99,medium,low,5,name.com,,,08/08/2026 07:47
@@ -893,7 +970,7 @@ f52c1696-bd77-4241-bc7b-d796037a3793,athabascan.rocks,available,7.98,29.98,mediu
 dff4186f-b5b0-4a20-8412-5ae3f7bcaf1d,lxxxvi.rocks,available,5.99,27.99,medium,low,6,name.com,,,
 15ee3664-98a5-4003-b150-6ccd0c116cec,beetling.rocks,available,5.99,27.99,medium,low,8,name.com,,,09/08/2026 08:22
 84d60e07-2448-4cbc-83cc-80ad97cd5e59,stoically.rocks,available,11.99,21.99,medium,low,9,namesilo,,,16/09/2026 07:14
-aed4c416-d303-4106-b0b8-874840523a39,accessories.rocks,available,7.98,29.98,medium,low,11,namecheap,,,25/09/2026 02:50
+aed4c416-d303-4106-b0b8-874840523a39,accessories.rocks,available,11.99,21.99,medium,low,11,namesilo,,,28/09/2026 10:52
 8981277d-ffc2-4a0e-89b2-9782e2dd69da,armful.rocks,available,11.99,21.99,medium,low,6,namesilo,,,20/09/2026 06:50
 70ed3264-b8df-45e8-8688-a9617208160a,catarrhine.rocks,available,5.99,27.99,medium,low,10,name.com,,,11/08/2026 21:11
 d5af723b-5edd-4677-8aab-a5fa24d007b5,shush.rocks,available,12.99,,medium,low,5,name.com,,,
@@ -905,6 +982,7 @@ a19f2e6c-d504-4fea-b358-82a061d915dd,episcopal.rocks,available,5.99,27.99,medium
 720d9cd3-37c4-4f46-a491-f8f9455bd8e2,anasazi.rocks,available,5.99,27.99,high,low,7,name.com,,,19/09/2026 03:16
 93cdf350-2f32-483e-beda-637eab98e02e,acadia.rocks,available,5.99,27.99,high,low,6,name.com,,,16/09/2026 20:28
 cd89ecc4-d024-4603-a6b6-811000a4ba38,cupboards.rocks,available,11.99,21.99,medium,low,9,namesilo,,,20/09/2026 06:12
+daf87355-c2a0-4582-8c74-542f204983dc,questionable.rocks,available,11.99,21.99,medium,low,12,namesilo,,,29/09/2026 02:59
 e0cb4cdc-e107-46e6-803d-bd81dfc54d34,anorgasmia.rocks,available,11.99,21.99,medium,low,10,namesilo,,,19/09/2026 11:47
 5061df09-b503-4e44-b64f-943f114abb94,coffeecakes.rocks,available,11.99,21.99,medium,low,11,namesilo,,,21/09/2026 00:59
 ad530443-5967-4647-a05d-ad2603dc5a60,hereabout.rocks,available,7.98,29.98,medium,low,9,namecheap,,,15/09/2026 00:18
@@ -921,81 +999,3 @@ c95a86c2-d3db-4fc7-895c-f226b2b21e3a,parvenue.rocks,available,7.98,29.98,medium,
 be40de76-917a-464d-9f1f-1a3edb6a45a8,sweltering.rocks,available,7.98,29.98,medium,low,10,namecheap,,,11/09/2026 05:40
 5297dc6d-7764-4c89-9c28-428bf5ca40b8,heather.rocks,premium,,,high,low,7,,,,28/09/2026 05:22
 2cc505cb-09fe-4973-9963-be2f1ee4f957,gingery.rocks,available,5.99,27.99,high,low,7,name.com,,,18/08/2026 23:53
-46b781b4-c574-4822-8d10-33f51a9a6d5e,clueless.rocks,available,5.99,27.99,medium,low,8,name.com,,,12/08/2026 13:05
-f4e9bdaf-fc8f-4486-961a-dc4a8b51593a,deciders.rocks,available,7.98,29.98,medium,low,8,namecheap,,,20/09/2026 23:38
-7b9fecba-75d2-40d6-b1e9-0af063679c7a,impeding.rocks,available,5.99,27.99,medium,low,8,name.com,,,12/08/2026 11:44
-885cd158-a30d-4a56-9f49-55ff92ab07a7,liberian.rocks,available,5.99,27.99,medium,low,8,name.com,,,23/08/2026 00:47
-5abb782b-3fa4-45c7-954e-d8aba6945a0c,midland.rocks,available,5.99,27.99,high,low,7,name.com,,,24/08/2026 22:36
-39657aed-5f29-4912-aa95-777a21d879ca,manlike.rocks,available,5.99,27.99,medium,low,7,name.com,,,24/08/2026 14:48
-ddb6b8c6-f841-4c40-8317-dce88fa85023,reacted.rocks,available,11.99,21.99,medium,low,7,namesilo,,,20/09/2026 00:48
-4433bacd-0225-4ee3-a129-e4e3bf5bd951,moravian.rocks,available,5.99,27.99,high,low,8,name.com,,,25/08/2026 06:14
-731852d9-9c54-47c1-b6f9-17f88aa9aeb7,robust.rocks,available,5.99,27.99,high,low,6,name.com,,,18/08/2026 18:02
-86dd1622-dd5b-4e14-9d43-30fd80e4b76f,angelica.rocks,available,7.98,29.98,high,low,8,namecheap,,,19/09/2026 05:57
-aaeb75a5-cea0-4c85-8ec3-46b5713906a4,weighing.rocks,available,11.99,21.99,high,low,8,namesilo,,,17/09/2026 11:27
-f4f3c640-43f5-4d8c-941f-5ce3a2260882,canorous.rocks,available,5.99,27.99,medium,low,8,name.com,,,11/08/2026 17:35
-15bec560-bae4-4d81-9163-5a85d46947c7,gustatory.rocks,available,5.99,27.99,medium,low,9,name.com,,,20/08/2026 21:07
-50e4aee0-a03a-4c02-8321-23164facb5aa,consular.rocks,available,5.99,27.99,high,low,8,name.com,,,12/08/2026 23:02
-2cdd9359-11c5-4784-90f0-f9feaabe6751,windsor.rocks,premium,118.8,118.8,high,low,7,namesilo,,,
-761cb99c-a19c-4c00-9a84-bc5285d2ec53,offence.rocks,available,7.98,29.98,medium,low,7,namecheap,,,04/09/2026 01:34
-7bdadd47-d20e-4ba7-8a0f-ed80ed7d07b3,afferent.rocks,available,5.99,27.99,medium,low,8,name.com,,,
-2bcda507-f454-4775-80a4-cedf021a6117,recommending.rocks,available,6.93,17.8,medium,low,12,spaceship,,,28/09/2026 03:25
-59a190d2-a0e3-4628-990b-46bb41926f75,nonu.rocks,available,7.98,29.98,medium,low,5,namecheap,,,03/09/2026 18:37
-43fc087d-3d50-4b3c-943f-cbbbcd02591d,kathy.rocks,premium,31.25,31.25,high,low,5,spaceship,,,27/09/2026 19:14
-7a467dc7-7171-4f82-8d2f-f6d74037449e,eyeshadow.rocks,available,7.98,29.98,medium,low,10,namecheap,,,
-46fb2b46-0915-447c-8db9-71ef06330b9b,baisa.rocks,available,7.98,29.98,medium,low,5,namecheap,,,21/09/2026 19:36
-48abc785-3383-4402-9406-45e35177bd2e,wishes.rocks,available,7.98,29.98,medium,low,6,namecheap,,,25/09/2026 20:13
-32b9546e-a970-434c-b987-b188f675886f,whim.rocks,available,7.98,29.98,high,low,4,namecheap,,,24/09/2026 12:39
-dabd8ccb-2f04-449e-ade9-bd265212ad4f,zoomed.rocks,available,11.99,21.99,medium,low,6,namesilo,,,18/09/2026 03:48
-c101ce96-091f-44f2-8f8d-436713c8dfe6,hexangular.rocks,available,5.99,27.99,medium,low,10,name.com,,,21/08/2026 07:48
-3fe6c273-753e-4d40-b503-5aebbfef1c7e,poetic.rocks,available,7.98,29.98,high,low,6,namecheap,,,08/09/2026 22:33
-487a16d2-5d2c-4201-9b31-d614f24dcc6d,unripe.rocks,available,7.98,29.98,medium,low,6,namecheap,,,12/09/2026 18:30
-e8fdf01e-e9ac-423b-9b06-c1e120091e34,serene.rocks,available,5.99,27.99,high,low,6,name.com,,,11/08/2026 14:51
-6095c100-8ef0-49b4-b728-f51f28164ad9,outfitted.rocks,available,7.98,29.98,high,low,9,namecheap,,,04/09/2026 19:24
-3916db6d-1ed1-41ba-9ba7-ebe0d8d64bf1,unrealized.rocks,available,7.98,29.98,medium,low,10,namecheap,,,12/09/2026 11:00
-a443236b-823a-47be-9f0f-d05fe75ef503,lineal.rocks,available,5.99,27.99,medium,low,6,name.com,,,23/08/2026 14:16
-b58f5013-85f5-479a-a5f1-26631061e678,aquaplane.rocks,available,11.99,21.99,medium,low,9,namesilo,,,19/09/2026 22:59
-8686c85e-93df-4fcd-a593-7982fc683aa8,yielding.rocks,available,7.98,29.98,high,low,8,namecheap,,,13/09/2026 14:36
-9f495e69-9560-4e7b-8e73-5a0a96951782,purses.rocks,available,11.99,21.99,medium,low,6,namesilo,,,20/09/2026 11:07
-70dd247e-0d01-475c-9e18-5e104f74170c,stripping.rocks,available,11.99,21.99,medium,low,9,namesilo,,,22/09/2026 05:59
-58c76a77-a040-47cc-a089-82f2f914d0ec,isfahan.rocks,available,11.99,21.99,medium,low,7,namesilo,,,20/09/2026 14:32
-a52a5207-9ffe-48e9-913b-222a7e679973,apercu.rocks,available,11.99,21.99,medium,low,6,namesilo,,,19/09/2026 16:30
-b84943c7-7c48-4f07-9e56-3e692f614619,granddaughter.rocks,available,12.99,,high,low,13,name.com,,,
-c1f470d3-f78a-4963-8eb8-26285cde112a,shrugs.rocks,available,11.99,21.99,medium,low,6,namesilo,,,20/09/2026 12:14
-a90c6178-dc80-43af-852d-bd2dc6fbfb80,cottony.rocks,available,5.99,27.99,medium,low,7,name.com,,,13/08/2026 03:26
-ae1cb23e-44ee-4283-a1c5-41ba7c9781b3,playing.rocks,available,11.99,21.99,high,low,7,namesilo,,,21/09/2026 16:27
-ce8083e8-96e6-4740-b2ee-7727b4d98552,ardour.rocks,resell,,,medium,low,6,IONOS SE,29/07/2017 17:30,29/07/2027 17:30,26/09/2026 03:58
-1e47a10d-dc0f-406e-bc53-690a0511772e,ananas.rocks,available,11.99,21.99,high,low,6,namesilo,,,19/09/2026 02:03
-9a06f7b3-cafa-48b4-badb-c84c6a25bef3,tailored.rocks,available,5.99,27.99,medium,low,8,name.com,,,09/08/2026 17:32
-2bff6320-b2dd-4bad-82d7-1c470a1cec70,meager.rocks,available,5.99,27.99,medium,low,6,name.com,,,24/08/2026 18:02
-30be3c22-6d1c-4f8c-9536-26d5617f23f4,xcii.rocks,available,5.99,27.99,medium,low,4,name.com,,,
-acf411ba-48bf-42b9-859b-11ac4a581bd2,autumn.rocks,available,12.99,,high,low,6,name.com,,,
-6ad0c09d-10cd-4061-a818-839905a6416d,noachian.rocks,available,7.98,29.98,medium,low,8,namecheap,,,03/09/2026 17:58
-ceee3bc5-1b37-4c10-8eb0-776119e02048,alyssum.rocks,available,11.99,21.99,medium,low,7,namesilo,,,18/09/2026 15:23
-1f13316e-5cc2-477e-a19a-770e1be10f06,insolvent.rocks,available,5.99,27.99,medium,low,9,name.com,,,08/08/2026 13:34
-614c59a4-b9ff-49d8-b16f-b62066997627,divergent.rocks,available,5.99,27.99,high,low,9,name.com,,,14/08/2026 13:35
-32a708a1-17db-4410-919d-b3f5939de964,withdrawn.rocks,available,5.99,27.99,medium,low,9,name.com,,,22/08/2026 03:25
-bd7f0614-81ce-4702-a59e-7cbf3632413e,hans.rocks,available,12.99,,high,low,4,name.com,,,
-492bd055-a433-4584-b6a8-42749da1b850,belch.rocks,available,11.99,21.99,medium,low,5,namesilo,,,23/09/2026 04:34
-c8eac339-9ce4-41c9-b7ae-6ba52c594d43,unskilled.rocks,available,5.99,27.99,medium,low,9,name.com,,,
-25173ba3-66f7-414a-b4b5-a03b785bf043,ionic.rocks,available,5.99,27.99,high,low,5,name.com,,,22/08/2026 09:29
-f9145f1f-2d28-4886-9648-f1778d86973f,tenner.rocks,available,11.99,21.99,medium,low,6,namesilo,,,21/09/2026 10:53
-4ad65cef-2c31-4dd6-8f52-44637b53a9b2,aspidistra.rocks,available,11.99,21.99,medium,low,10,namesilo,,,20/09/2026 15:15
-a4db1a4c-72f2-477a-9eee-19f25ba82198,alexanders.rocks,available,11.99,21.99,medium,low,10,namesilo,,,18/09/2026 05:47
-8db6c29d-45e3-4d6e-a8c7-43914a417c30,literally.rocks,available,12.99,,high,low,9,name.com,,,
-7a79595f-7305-454a-9658-48cd2e2cd781,mightily.rocks,available,5.99,27.99,medium,low,8,name.com,,,24/08/2026 22:45
-3490f4ba-56b7-42d5-9d66-195392b1ff5f,tenured.rocks,available,7.98,29.98,medium,low,7,namecheap,,,11/09/2026 11:43
-dc490efd-db26-4a79-b6a1-1bb51cc6e7c2,locomotive.rocks,available,5.99,27.99,high,low,10,name.com,,,24/08/2026 08:48
-749efa9b-0a64-4618-97c2-c1986f5b7d5a,civilly.rocks,available,7.98,29.98,medium,low,7,namecheap,,,14/09/2026 06:57
-33da84b0-8ecb-4450-915c-3a7412303cce,woozy.rocks,available,5.99,27.99,medium,low,5,name.com,,,14/08/2026 14:06
-def9d8d0-af70-4e1c-a20a-b3e9167e9a9a,milk.rocks,resell,,,high,low,4,"GoDaddy.com, LLC",23/07/2020 09:45,23/07/2027 09:45,26/09/2026 07:33
-cec3c31c-fe91-4fa2-b284-fab8ae206c35,animality.rocks,available,7.98,29.98,medium,low,9,namecheap,,,19/09/2026 08:40
-d5d5d0d0-f656-42b0-834a-4001c3498864,acerate.rocks,available,7.98,29.98,medium,low,7,namecheap,,,24/09/2026 08:17
-ff9d8f2f-a27b-4cf3-86c2-319a13409b1d,probiotic.rocks,available,17.2,17.2,high,low,9,cloudflare,,,28/09/2026 02:50
-177741bb-746e-43e6-ba5f-67955bb58c71,smashed.rocks,available,5.99,27.99,medium,low,7,name.com,,,09/08/2026 15:50
-f65e16cd-7937-4bb1-a134-ffdd5df40cfc,recurring.rocks,available,7.98,29.98,high,low,9,namecheap,,,09/09/2026 11:58
-f8db7a26-0a64-48d8-9d44-363d0e0f5fac,who.rocks,available,,,high,high,3,,,,
-ad70bf19-80c6-4fff-bb62-0d247fa357c2,oversexed.rocks,available,5.99,27.99,medium,low,9,name.com,,,21/08/2026 09:17
-f90b1218-e867-4d45-aef4-a67c908897c3,unwonted.rocks,available,7.98,29.98,low,low,8,namecheap,,,12/09/2026 22:48
-7bc5b44b-7b73-4256-a25e-ab1ef81af7cd,decreed.rocks,available,5.99,27.99,medium,low,7,name.com,,,13/08/2026 22:14
-28507c74-85f7-4656-8170-9207bbab6f9e,anglian.rocks,available,11.99,21.99,medium,low,7,namesilo,,,19/09/2026 06:48
-daddefd5-771b-4213-93e4-11bbe0b609c7,judging.rocks,available,6.93,17.8,high,low,7,spaceship,,,27/09/2026 14:29
